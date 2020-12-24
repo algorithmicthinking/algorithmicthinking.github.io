@@ -130,8 +130,8 @@ html, body {
   
 
   
-  .table-hover tbody:hover {
-    background-color: rgba(133, 230, 133, 0.15) !important;
+  .table-hover tr:hover {
+    background-color: rgba(50, 176, 226, 0.15) !important;
   }
   
   img.headshot {
