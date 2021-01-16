@@ -28,7 +28,7 @@ const Landing = () => {
                   href="."
                   style={{ color: "rgb(0, 0, 0)" }}
                 >
-                  <strong>Leetcode 101 DeCal</strong>
+                  <strong>Leetcode 1011 DeCal</strong>
                 </a>
               </div>
               <div id="navbar" class="navbar-collapse collapse">
