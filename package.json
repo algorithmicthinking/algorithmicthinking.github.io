@@ -1,6 +1,6 @@
 {
   "homepage": "https://leetcode101.com/",
-  "name": "test",
+  "name": "leetcode101",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

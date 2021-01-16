@@ -4,7 +4,7 @@ import "../css/style.css";
 
 const Landing = () => {
   return (
-    <div>
+    <div data-spy="scroll" data-target="#navscroll">
       <div id="navscroll">
         <nav class="navbar navbar-default navbar-fixed-top">
           <div class="container-fluid">
@@ -28,7 +28,7 @@ const Landing = () => {
                   href="."
                   style={{ color: "rgb(0, 0, 0)" }}
                 >
-                  <strong>Leetcode 1011 DeCal</strong>
+                  <strong>Leetcode 101 DeCal</strong>
                 </a>
               </div>
               <div id="navbar" class="navbar-collapse collapse">
