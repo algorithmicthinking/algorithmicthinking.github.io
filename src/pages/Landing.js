@@ -1,5 +1,7 @@
 import React from "react";
 
+import "../css/style.css";
+
 const Landing = () => {
   return (
     <div>
