@@ -2,14 +2,17 @@ import React from "react";
 
 import { facilitators, teachingAssistants } from "../data/Staff";
 
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
 const Team = () => {
   return (
-    <div class="row">
-      <a class="anchor" id="staff" />
-      <div class="col">
+    <Row>
+      <Col>
+        <a class="anchor" id="staff" />
         <h2>Course Staff</h2>
         <h3>DeCal Facilitators</h3>
-        <div class="row">
+        <Row>
           {facilitators.map((member, index) => (
             <div class=" col-md-6 my-4">
               <img
@@ -27,12 +30,12 @@ const Team = () => {
               </div>
             </div>
           ))}
-        </div>
+        </Row>
 
         <h3>TAs</h3>
-        <div class="row">
+        <Row>
           {teachingAssistants.map((member, index) => (
-            <div class=" col-md-6 my-4">
+            <div class="col-md-6 my-4">
               <img
                 src={member.image}
                 alt={member.name}
@@ -48,9 +51,9 @@ const Team = () => {
               </div>
             </div>
           ))}
-        </div>
-      </div>
-    </div>
+        </Row>
+      </Col>
+    </Row>
   );
 };
 

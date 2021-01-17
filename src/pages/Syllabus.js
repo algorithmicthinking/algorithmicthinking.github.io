@@ -1,9 +1,12 @@
 import React from "react";
 
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
 const Syllabus = () => {
   return (
-    <div class="row">
-      <div class="col">
+    <Row>
+      <Col>
         <a class="anchor" id="syllabus"></a>
         <h2>Syllabus</h2>
         <h3>Course Info</h3>
@@ -66,7 +69,7 @@ const Syllabus = () => {
         <p> </p>
 
         <h3>Homework</h3>
-        <a class="anchor" id="homework"></a>
+        <a class="anchor" id="homework" />
         <p>
           Weekly homework will be assigned and submitted on bCourses. For
           leetcode problems, this includes submitting screenshot verification
@@ -86,7 +89,7 @@ const Syllabus = () => {
         </p>
 
         <h3>Grading Breakdown</h3>
-        <a class="anchor" id="gradeBreak"></a>
+        <a class="anchor" id="gradeBreak" />
         <ul>
           <li>Lecture Attendance: 20%</li>
           <li>Mock Interview Participation: 40% </li>
@@ -128,8 +131,8 @@ const Syllabus = () => {
           looking at the answer. We will host office hours (Time: TBD) so you
           get a chance to talk to us about the problems.
         </p>
-      </div>
-    </div>
+      </Col>
+    </Row>
   );
 };
 

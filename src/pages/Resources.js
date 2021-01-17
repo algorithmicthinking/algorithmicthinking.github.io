@@ -1,10 +1,14 @@
 import React from "react";
 
+import Row from "react-bootstrap/Row";
+import Col from "react-bootstrap/Col";
+
 const Resources = () => {
   return (
-    <div class="row">
-      <a class="anchor" id="resources" />
-      <div class="col">
+    <Row>
+      <Col>
+        <a class="anchor" id="resources" />
+
         <h2>Resources</h2>
 
         <p>
@@ -16,6 +20,7 @@ const Resources = () => {
           >
             Piazza
           </a>
+          .
         </p>
 
         <h3>Lecture Slides</h3>
@@ -26,8 +31,8 @@ const Resources = () => {
             </a>
           </li>
         </ul>
-      </div>
-    </div>
+      </Col>
+    </Row>
   );
 };
 
