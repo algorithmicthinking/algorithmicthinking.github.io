@@ -92,7 +92,7 @@ export const teachingAssistants = [
   },
   { name: "Rahul Shah", 
     email: "rsha256", 
-    bio: "Hi, I'm Rahul! I'm from Princeton NJ and am now a freshman declared as a Computer Science major in L&S. I love coding, developing software (peep my github, rsha256), and teaching. I also love pandas and am always free if you'd like advice/help about any of the CS intro series here at Cal :)", 
+    bio: "Hi, I'm Rahul! I'm from Princeton NJ and am now a freshman declared as a Computer Science major in L&S. I love coding, developing software (peep my github, rsha256), and teaching. I also love pandas and am always free if you'd like advice about any of the CS intro series here at Cal :)", 
     image: Rahul
   },
   { name: "Samarth Goel", 
