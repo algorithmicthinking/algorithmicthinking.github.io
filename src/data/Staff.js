@@ -4,7 +4,7 @@ import MichaelJ from "../headshots/mike.jpeg";
 import Kathy from "../headshots/kathy_wu.jpg";
 
 import Ahan from "../headshots/ahan_sabharwal.jpg";
-import Michael from "../headshots/michael_wang.jpg";
+import Karthik from "../headshots/karthik_balakrishnan.jpg";
 import Ankit from "../headshots/ankit_agarwal.jpg";
 import Megan from "../headshots/megan_zhu.jpg";
 import David from "../headshots/david_zhu.jpg";
@@ -32,7 +32,7 @@ export const facilitators = [
   },
   { name: "Kathy Wu", 
     email: "kathywu", 
-    bio: "Hi! My name is Kathy and I'm a 3rd year CS major from Saratoga, CA. I like algorithms and cats :)", 
+    bio: "Hey everyone! My name is Kathy, and I'm a 3rd CS major from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!", 
     image: Kathy
   },
 ];
@@ -45,10 +45,10 @@ export const teachingAssistants = [
       "Hi everyone! I’m a junior studying Data Science and CS. I’m interested in systems, ML infra, and algorithms. Super excited to TA the course and help everyone with interview prep!",
     image: Ahan,
   },
-  { name: "Michael Wang", 
-    email: "michaelwang23", 
-    bio: "Hi, I'm Michael and I'm a 2nd year CS major. Looking forward to a great semester!", 
-    image: Michael
+  { name: "Karthik Balakrishnan", 
+    email: "bkarthik", 
+    bio: "I could tell you about myself, but where's the fun in that? Stalk me online and see what you can find out about me!", 
+    image: Karthik
   },
   { name: "Ankit Agarwal", 
     email: "aagarwal_601", 
