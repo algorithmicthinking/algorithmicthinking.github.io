@@ -1,6 +1,6 @@
 import Temp from "../img/logo.png";
 
-import MichaelJ from "../headshots/this_is_fine.jpg";
+import MichaelJ from "../headshots/mike.jpeg";
 import Kathy from "../headshots/this_is_fine.jpg";
 
 import Ahan from "../headshots/ahan_sabharwal.jpg";
