@@ -22,7 +22,7 @@ const SiteNavbar = () => {
   };
 
   return (
-    <Navbar bg="light" expand="lg" sticky="top" className="navbar">
+    <Navbar expand="lg" sticky="top" className="navbar">
       <Navbar.Brand href="#home">
         <strong>Leetcode 101 DeCal</strong>
       </Navbar.Brand>

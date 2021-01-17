@@ -32,7 +32,7 @@ const ToggleContainer = styled.button`
     
     // moon icon
     &:nth-child(2) {
-      transform: ${({ lightTheme }) => lightTheme ? 'translateY(-100px)' : 'translateY(0)'};
+      transform: ${({ darkTheme }) => darkTheme ? 'translateY(-100px)' : 'translateY(0)'};
     }
   }
 `;
