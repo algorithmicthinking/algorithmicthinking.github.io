@@ -20,7 +20,7 @@ const ToggleContainer = styled.button`
   width: 5rem;
   height: 3rem;
 
-  svg {
+  img {
     height: auto;
     width: 2.5rem;
     transition: all 0.3s linear;
@@ -38,10 +38,11 @@ const ToggleContainer = styled.button`
 
 const Toggle = ({ theme, toggleTheme }) => {
   const isLight = theme === 'light';
+
   return (
-    <ToggleContainer onClick={toggleTheme} >
-      <MoonIcon />
-      <SunIcon />
+    <ToggleContainer lightTheme={isLight} onClick={toggleTheme}>
+      <img src="https://image.flaticon.com/icons/svg/1164/1164954.svg" style={{width: 30, height: 30}} alt="Sun"/>
+      <img src="https://image.flaticon.com/icons/svg/2033/2033921.svg" style={{width: 30, height: 30}} alt="Moon"/>
     </ToggleContainer>
   );
 };
