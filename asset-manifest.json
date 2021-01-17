@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7412d307.chunk.css",
-    "main.js": "/static/js/main.0acf521c.chunk.js",
-    "main.js.map": "/static/js/main.0acf521c.chunk.js.map",
+    "main.js": "/static/js/main.05179676.chunk.js",
+    "main.js.map": "/static/js/main.05179676.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5b97f61e.js",
     "runtime-main.js.map": "/static/js/runtime-main.5b97f61e.js.map",
     "static/js/2.be650fc9.chunk.js": "/static/js/2.be650fc9.chunk.js",
@@ -20,14 +20,14 @@
     "static/media/ian_chang.1008dd13.jpg": "/static/media/ian_chang.1008dd13.jpg",
     "static/media/jessica_yu.5f027f35.jpg": "/static/media/jessica_yu.5f027f35.jpg",
     "static/media/julian_meyn.25f615d6.jpg": "/static/media/julian_meyn.25f615d6.jpg",
-    "static/media/kathy_wu.ce318a45.jpg": "/static/media/kathy_wu.ce318a45.jpg",
+    "static/media/karthik_balakrishnan.39f7ff68.jpg": "/static/media/karthik_balakrishnan.39f7ff68.jpg",
+    "static/media/kathy_wu.1b1a12dc.jpg": "/static/media/kathy_wu.1b1a12dc.jpg",
     "static/media/kevin_zhu.f9874913.png": "/static/media/kevin_zhu.f9874913.png",
     "static/media/kexin_shu.7fa64d66.jpg": "/static/media/kexin_shu.7fa64d66.jpg",
     "static/media/leo_kao.3ccbb07b.jpg": "/static/media/leo_kao.3ccbb07b.jpg",
     "static/media/logo.0735e929.png": "/static/media/logo.0735e929.png",
     "static/media/luke_liu.5cfd8592.jpg": "/static/media/luke_liu.5cfd8592.jpg",
     "static/media/megan_zhu.161878fb.jpg": "/static/media/megan_zhu.161878fb.jpg",
-    "static/media/michael_wang.ba6cf786.jpg": "/static/media/michael_wang.ba6cf786.jpg",
     "static/media/mike.3eb54249.jpeg": "/static/media/mike.3eb54249.jpeg",
     "static/media/moon.22fb56db.svg": "/static/media/moon.22fb56db.svg",
     "static/media/priyam_mohanty.34281ba0.png": "/static/media/priyam_mohanty.34281ba0.png",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.5b97f61e.js",
     "static/js/2.be650fc9.chunk.js",
     "static/css/main.7412d307.chunk.css",
-    "static/js/main.0acf521c.chunk.js"
+    "static/js/main.05179676.chunk.js"
   ]
 }
