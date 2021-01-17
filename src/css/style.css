@@ -1,7 +1,6 @@
-html,
+/* html,
 body {
   font-family: Helvetica;
-  margin: 0 0 0 0 !important;
   font-size: 11pt;
   height: 100%;
   line-height: 130%;
@@ -10,9 +9,9 @@ body {
 }
 
 body {
-  background-color: white;
+  background-color: #f9f9f9;
 }
-
+*/
 a {
   text-decoration: none;
   color: #2951cc;
@@ -53,9 +52,9 @@ div {
     z-index: 1;
   } */
 
-.content {
+/* .content {
   padding: 30px 30px 10px 30px;
-}
+} */
 
 .span3 {
   width: 100%;
@@ -101,11 +100,6 @@ h3 {
   line-height: 130%;
   padding-top: 10px;
   padding-bottom: 5px;
-}
-
-body {
-  padding-top: 55px;
-  position: relative;
 }
 
 /* nav.navbar {
@@ -190,10 +184,6 @@ li.dropdown {
 
 ::selection {
   background-color: hsla(209, 46%, 35%, 0.25);
-}
-
-body {
-  background-color: #f9f9f9;
 }
 
 .oi {
