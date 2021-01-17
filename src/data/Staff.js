@@ -6,7 +6,7 @@ import Kathy from "../headshots/this_is_fine.jpg";
 import Ahan from "../headshots/ahan_sabharwal.jpg";
 import Michael from "../headshots/michael_wang.jpg";
 import Ankit from "../headshots/ankit_agarwal.jpg";
-import Megan from "../headshots/this_is_fine.jpg";
+import Megan from "../headshots/megan_zhu.jpg";
 import David from "../headshots/david_zhu.jpg";
 import Kexin from "../headshots/kexin_shu.jpg";
 import Leo from "../headshots/leo_kao.jpg";
@@ -56,8 +56,8 @@ export const teachingAssistants = [
     image: Ankit
   },
   { name: "Megan Zhu", 
-    email: "", 
-    bio: "Hi", 
+    email: "meganzhu", 
+    bio: "Hey! My name is Megan and I'm a third year Computer Science and Econ double major from Toronto, Canada. In my free time, I like to eat, sleep, eat some more and binge watch tv shows for hours on end. Feel free to hit me up with any questions and I'll try my best!", 
     image: Megan
   },
   { name: "David Zhu", 
