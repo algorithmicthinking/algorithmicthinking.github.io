@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.7412d307.chunk.css",
-    "main.js": "/static/js/main.38f66ce7.chunk.js",
-    "main.js.map": "/static/js/main.38f66ce7.chunk.js.map",
+    "main.js": "/static/js/main.d9241170.chunk.js",
+    "main.js.map": "/static/js/main.d9241170.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.112d7b2d.js",
     "runtime-main.js.map": "/static/js/runtime-main.112d7b2d.js.map",
     "static/js/2.816c2455.chunk.js": "/static/js/2.816c2455.chunk.js",
@@ -27,6 +27,7 @@
     "static/media/luke_liu.06f15f48.jpg": "/static/media/luke_liu.06f15f48.jpg",
     "static/media/megan_zhu.ff6b0dde.jpg": "/static/media/megan_zhu.ff6b0dde.jpg",
     "static/media/michael_wang.ba6cf786.jpg": "/static/media/michael_wang.ba6cf786.jpg",
+    "static/media/mike.3eb54249.jpeg": "/static/media/mike.3eb54249.jpeg",
     "static/media/priyam_mohanty.c5a22411.png": "/static/media/priyam_mohanty.c5a22411.png",
     "static/media/rahul_shah.6542ea3e.png": "/static/media/rahul_shah.6542ea3e.png",
     "static/media/richard_zhu.1d4d661a.jpg": "/static/media/richard_zhu.1d4d661a.jpg",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.112d7b2d.js",
     "static/js/2.816c2455.chunk.js",
     "static/css/main.7412d307.chunk.css",
-    "static/js/main.38f66ce7.chunk.js"
+    "static/js/main.d9241170.chunk.js"
   ]
 }
