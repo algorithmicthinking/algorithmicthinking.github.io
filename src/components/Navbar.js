@@ -1,11 +1,26 @@
-import React from "react";
+import React, { useState } from 'react';
 
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 
 import "../css/navbar.scss";
 
+// dark theme toggle stuff
+import { ThemeProvider } from 'styled-components';
+import { lightTheme, darkTheme } from './Theme';
+import { GlobalStyles } from './Global';
+import Toggle from './Toggle';
+import { useDarkMode } from './UseDarkMode';
+
 const SiteNavbar = () => {
+  const [theme, toggleTheme, componentMounted] = useDarkMode();
+
+  const themeMode = theme === 'light' ? lightTheme : darkTheme;
+
+  if (!componentMounted) {
+    return <div />
+  };
+
   return (
     <Navbar bg="light" expand="lg" sticky="top" className="navbar">
       <Navbar.Brand href="#home">
@@ -38,6 +53,7 @@ const SiteNavbar = () => {
           >
             Reference
           </Nav.Link>
+          <ThemeProvider theme={themeMode}><><GlobalStyles /><Toggle theme={theme} toggleTheme={toggleTheme} /> </> </ThemeProvider>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
