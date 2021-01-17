@@ -111,8 +111,8 @@ export const teachingAssistants = [
     image: Luke
   },
   { name: "Artem Tkachuk", 
-    email: "atkachuk", 
-    bio: "Artem is an international junior student at UC Berkeley studying Computer Science and Mathematics. He is the current lead of Berkeley's Google Developer Student Club. Artem wants to pursue an academic career and do research in machine learning, but he is also interested in all things involving business.", 
+    email: "aat",
+    bio: "Hi! I'm an international junior student at Berkeley studying CS and Math. I am also the current lead of Berkeley's Google Developer Student Club. I want to pursue an academic career and do research in machine learning, but am also interested in all things involving business. In my free time I play musical instruments (mainly guitars and piano), travel, listen to music, read, ski, and swim! If you are a transfer student, come talk to me!",
     image: Artem
   },
   {

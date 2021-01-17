@@ -1,12 +1,15 @@
 import React from "react";
 
 import { schedule } from "../data/Schedule";
+import Calendar from "../components/Calendar"
 
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Table from "react-bootstrap/Table";
 
 import "../css/landing.scss";
+
+
 
 const Landing = () => {
   return (
@@ -92,8 +95,20 @@ const Landing = () => {
           </div>
         </Col>
       </Row>
+
+      <Row
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center"
+          }}
+      >
+        <Calendar />
+      </Row>
     </div>
   );
 };
 
 export default Landing;
+
+
