@@ -41,8 +41,8 @@ const Toggle = ({ theme, toggleTheme }) => {
 
   return (
     <ToggleContainer lightTheme={isLight} onClick={toggleTheme}>
-      <img src="https://image.flaticon.com/icons/svg/1164/1164954.svg" style={{width: 30, height: 30}} alt="Sun"/>
-      <img src="https://image.flaticon.com/icons/svg/2033/2033921.svg" style={{width: 30, height: 30}} alt="Moon"/>
+      <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" style={{width: 30, height: 30}} alt="Sun"/>
+      <img src="https://assets.leetcode.com/static_assets/public/icons/apple-touch-icon-180x180.png" style={{width: 30, height: 30}} alt="Moon"/>
     </ToggleContainer>
   );
 };
