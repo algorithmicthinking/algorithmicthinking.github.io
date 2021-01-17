@@ -24,6 +24,13 @@ const SiteNavbar = () => {
           >
             Piazza
           </Nav.Link>
+          <Nav.Link
+            target="_blank"
+            rel="noreferrer"
+            href="https://discord.gg/wXqGwjcD"
+          >
+            Discord
+          </Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
