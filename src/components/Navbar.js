@@ -31,6 +31,13 @@ const SiteNavbar = () => {
           >
             Discord
           </Nav.Link>
+          <Nav.Link
+            target="_blank"
+            rel="noreferrer"
+            href="https://wiki.python.org/moin/TimeComplexity"
+          >
+            Reference
+          </Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
