@@ -2,11 +2,11 @@ import "./App.css";
 import "./css/style.css";
 
 import Navbar from "./components/Navbar";
-
 import Landing from "./pages/Landing";
 import Team from "./pages/Team";
 import Resources from "./pages/Resources";
 import Syllabus from "./pages/Syllabus";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -17,6 +17,7 @@ function App() {
         <Team />
         <Resources />
         <Syllabus />
+        <Footer />
       </div>
     </div>
   );
