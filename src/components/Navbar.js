@@ -3,6 +3,8 @@ import React, { useState } from "react";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 
+import Logo from "../img/logo.png";
+
 import "../css/navbar.scss";
 
 // dark theme toggle stuff
@@ -24,6 +26,7 @@ const SiteNavbar = () => {
   return (
     <Navbar expand="lg" sticky="top" className="navbar">
       <Navbar.Brand href="#home">
+        <img src={Logo} alt="" />
         <strong>Leetcode 101 DeCal</strong>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="navbar-nav" />
