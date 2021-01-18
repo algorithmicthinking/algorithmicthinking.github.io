@@ -27,7 +27,8 @@ const focus_areas = {
   hw_mi: "HW + Mock interviews",
   piazza: "Piazza",
   video: "Video walkthrough",
-  head_logistics: "Head logistics TA"
+  head_logistics: "Head logistics TA",
+  lecturer: "Lecturer"
 }
 
 export const facilitators = [
@@ -101,7 +102,7 @@ export const teachingAssistants = [
     email: "zhu502846", 
     bio: "Hey everyone - I am a 3rd year from Chicago-ish and I'm super excited to help pilot this class! Outside of CS, some of my current hobbies include League, music, and indulging on nostalgic TV shows from the early 2000s/2010s. Feel free to talk to me about anything!", 
     image: Kevin,
-    focus_area: ""
+    focus_area: focus_areas.lecturer
   },
   { name: "Richard Zhu", 
     email: "rszhu", 
