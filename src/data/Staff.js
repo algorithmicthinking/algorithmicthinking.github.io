@@ -32,7 +32,7 @@ export const facilitators = [
   },
   { name: "Kathy Wu", 
     email: "kathywu", 
-    bio: "Hey everyone! My name is Kathy, and I'm a 3rd CS major from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!", 
+    bio: "Hey everyone! My name is Kathy, and I'm a 3rd year CS major from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!", 
     image: Kathy
   },
 ];
