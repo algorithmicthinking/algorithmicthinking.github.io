@@ -117,7 +117,6 @@ export default function App() {
     console.log(process.env.REACT_APP_CALENDAR_API_KEY);
     return (
         <div className="App">
-            <body>
             <div
                 style={{
                     width: "90%",
@@ -129,7 +128,6 @@ export default function App() {
             >
                 <Calendar apiKey={API_KEY} calendars={calendars} styles={styles} />
             </div>
-            </body>
         </div>
     );
 }

@@ -43,7 +43,10 @@ const Team = () => {
               ></img>
               <div class="media-body">
                 <h4 class="my-0">{member.name}</h4>
+
                 <p class="my-1">{member.email}@</p>
+
+                <p className="my-1"><i>{member.focus_area}</i></p>
 
                 <span class="staff-bio">
                   <p>{member.bio}</p>
