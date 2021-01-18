@@ -25,15 +25,8 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h1>Announcements</h1>
           <p>
-            To enroll in the course, fill in the form{" "}
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://forms.gle/Nco84WHHZ5Bkpsq27"
-            >
-              here
-            </a>{" "}
-            to receive an enrollment code.
+            Enrollment is now closed!
+            Check back later as our site is still being updated.
           </p>
         </Col>
       </Row>
