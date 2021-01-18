@@ -91,7 +91,7 @@ import Calendar from "@ericz1803/react-google-calendar";
 import { css } from "@emotion/react";
 
 //put your google calendar api key here
-const API_KEY = "";
+const API_KEY = process.env.REACT_APP_CALENDAR_API_KEY;
 
 //replace calendar id with one you want to test
 
@@ -114,6 +114,7 @@ let styles = {
 };
 
 export default function App() {
+    console.log(process.env.REACT_APP_CALENDAR_API_KEY);
     return (
         <div className="App">
             <body>
