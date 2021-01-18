@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
@@ -6,20 +6,20 @@ import Nav from "react-bootstrap/Nav";
 import "../css/navbar.scss";
 
 // dark theme toggle stuff
-import { ThemeProvider } from 'styled-components';
-import { lightTheme, darkTheme } from './Theme';
-import { GlobalStyles } from './Global';
-import Toggle from './Toggle';
-import { useDarkMode } from './UseDarkMode';
+import { ThemeProvider } from "styled-components";
+import { lightTheme, darkTheme } from "./Theme";
+import { GlobalStyles } from "./Global";
+import Toggle from "./Toggle";
+import { useDarkMode } from "./UseDarkMode";
 
 const SiteNavbar = () => {
   const [theme, toggleTheme, componentMounted] = useDarkMode();
 
-  const themeMode = theme === 'light' ? lightTheme : darkTheme;
+  const themeMode = theme === "light" ? lightTheme : darkTheme;
 
   if (!componentMounted) {
-    return <div />
-  };
+    return <div />;
+  }
 
   return (
     <Navbar expand="lg" sticky="top" className="navbar">
@@ -29,31 +29,48 @@ const SiteNavbar = () => {
       <Navbar.Toggle aria-controls="navbar-nav" />
       <Navbar.Collapse id="navbar-nav">
         <Nav className="ml-auto">
-          <Nav.Link href="#schedule">Schedule</Nav.Link>
-          <Nav.Link href="#staff">Staff</Nav.Link>
-          <Nav.Link href="#syllabus">Syllabus</Nav.Link>
+          <Nav.Link href="#schedule">
+            <p>Schedule</p>
+          </Nav.Link>
+          <Nav.Link href="#staff">
+            <p>Staff</p>
+          </Nav.Link>
+          <Nav.Link href="#syllabus">
+            <p>Syllabus</p>
+          </Nav.Link>
           <Nav.Link
             target="_blank"
             rel="noreferrer"
             href="https://piazza.com/berkeley/spring2021/cs198112"
           >
-            Piazza
+            <p>Piazza</p>
           </Nav.Link>
           <Nav.Link
             target="_blank"
             rel="noreferrer"
             href="https://discord.gg/wXqGwjcD"
           >
-            Discord
+            <p>Discord</p>
           </Nav.Link>
           <Nav.Link
             target="_blank"
             rel="noreferrer"
             href="https://wiki.python.org/moin/TimeComplexity"
           >
-            Reference
+            <p>Reference</p>
           </Nav.Link>
-          <ThemeProvider theme={themeMode}><><GlobalStyles /><Toggle theme={theme} toggleTheme={toggleTheme} /> </> </ThemeProvider>
+          <div className="toggle">
+            <ThemeProvider theme={themeMode}>
+              <>
+                <GlobalStyles />
+                <Toggle
+                  theme={theme}
+                  toggleTheme={toggleTheme}
+                  className="theme-button"
+                />
+              </>
+            </ThemeProvider>
+          </div>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
