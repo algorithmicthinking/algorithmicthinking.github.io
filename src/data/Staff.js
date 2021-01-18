@@ -26,7 +26,8 @@ const focus_areas = {
   wd: "Web Development",
   hw_mi: "HW + Mock interviews",
   piazza: "Piazza",
-  video: "Video walkthrough"
+  video: "Video walkthrough",
+  head_logistics: "Head logistics TA"
 }
 
 export const facilitators = [
@@ -155,6 +156,6 @@ export const teachingAssistants = [
     email: "jessica.yu", 
     bio: "I like to Leet", 
     image: Jessica,
-    focus_area: ""
+    focus_area: focus_areas.head_logistics
   },
 ];
