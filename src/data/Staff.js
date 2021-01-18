@@ -82,7 +82,7 @@ export const teachingAssistants = [
   },
   { name: "Kevin Zhu", 
     email: "zhu502846", 
-    bio: "Hey! I'm a 3rd year from Chicago-ish and I think algorithms are pretty rad.", 
+    bio: "Hey everyone - I am a 3rd year from Chicago-ish and I'm super excited to help pilot this class! Outside of CS, some of my current hobbies include League, music, and indulging on nostalgic TV shows from the early 2000s/2010s. Feel free to talk to me about anything!", 
     image: Kevin
   },
   { name: "Richard Zhu", 
