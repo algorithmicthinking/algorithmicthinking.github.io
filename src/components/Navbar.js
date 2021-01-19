@@ -51,7 +51,7 @@ const SiteNavbar = () => {
           <Nav.Link
             target="_blank"
             rel="noreferrer"
-            href="https://discord.gg/wXqGwjcD"
+            href="https://discord.gg/Ewyh3YJd8m"
           >
             <p>Discord</p>
           </Nav.Link>
