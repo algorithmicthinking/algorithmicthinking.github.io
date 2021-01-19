@@ -23,14 +23,42 @@ const Resources = () => {
           .
         </p>
 
-        {/* <h3>Lecture Slides</h3>
+        <h3>Additional resources</h3>
         <ul>
           <li>
-            <a target="_blank" rel="noreferrer" href=".">
-              Introduction
-            </a>
+            <p>
+              <a
+                  href={"https://binarysearch.com/"}
+                  target={"_blank"}
+                  rel={"noreferrer"}
+              >
+                BinarySearch.com
+              </a>
+              - Learn Algorithms Together! Create a room, invite your friends, and race to finish the problems.
+            </p>
+
           </li>
-        </ul> */}
+          <li>
+            <p>
+              <a
+                  href={"https://docs.google.com/document/d/1Ewown3BLdG1XH7EsNXxZFgIOFV7qm8P6W50kc9yK4fs/edit?usp=sharing"}
+                  target={"_blank"}
+                  rel={"noreferrer"}
+              >
+                How to 100% Get a Job 40% of the Time: Pingpong Edition
+              </a>
+            </p>
+          </li>
+        </ul>
+
+        {/*<h3>Lecture Slides</h3>*/}
+        {/*<ul>*/}
+        {/*  <li>*/}
+        {/*    <a target="_blank" rel="noreferrer" href=".">*/}
+        {/*      Introduction*/}
+        {/*    </a>*/}
+        {/*  </li>*/}
+        {/*</ul>*/}
       </Col>
     </Row>
   );
