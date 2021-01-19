@@ -62,12 +62,6 @@ export const teachingAssistants = [
     image: Karthik,
     focus_area: focus_areas.hw_mi
   },
-  { name: "Ankit Agarwal", 
-    email: "aagarwal_601", 
-    bio: "Tech enthusiast interested in starting my own start-up. Hobby mathematician and pianist :D", 
-    image: Ankit,
-    focus_area: ""
-  },
   { name: "Megan Zhu", 
     email: "meganzhu", 
     bio: "Hey! My name is Megan and I'm a third year Computer Science and Econ double major from Toronto, Canada. In my free time, I like to eat, sleep, eat some more and binge watch tv shows for hours on end. Feel free to hit me up with any questions and I'll try my best!", 
