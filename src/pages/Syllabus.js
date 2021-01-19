@@ -40,16 +40,33 @@ const Syllabus = () => {
         </ul>
         <h3>Course Description</h3>
         <p>
-          Coding interviews often require a skill set that is not fully covered
-          by the undergraduate CS curriculum. Rather than leave students to
-          learn these skills on their own, Introduction to Algorithmic Thinking
-          attempts to bridge the gap between traditional computer science
-          coursework and the industry recruiting process. With mock interviews
-          and practice problems curated by frequency, Introduction to
-          Algorithmic Thinking provides a hands on and practical approach to
-          learning how to code algorithms commonly seen in software engineering
-          interviews.
+        Coding interviews often require a skill set that is not fully covered by the undergraduate CS curriculum. Rather than leave students to learn these skills on their own, Introduction to Algorithmic Thinking attempts to bridge the gap between traditional computer science coursework and the industry recruiting process. With mock interviews and practice problems curated by frequency, Introduction to Algorithmic Thinking provides a hands on and practical approach to learning how to code algorithms commonly seen in software engineering interviews.
         </p>
+        <h3>Course Format</h3>
+        <p>
+          There are a few components to the course. The class time slot is 5:00-6:30pm, and the first 45 minutes are dedicated to a content lecture and the latter 45 minutes are dedicated to discussion, which is for collaborative problem solving with a partner.
+          <ul>
+            <li>
+              <h5>Partners</h5>
+              At the beginning of the class, you will fill out a form listing your preferences for matching with a partner. This partner will be your partner for discussion, and you will get to collaboratively work on problems with this partner every class during discussion. In addition, you will do your mock interviews with this partner. You are free to also collaborate on the homework with your partner. 
+            </li>
+            <li>
+              Content Lecture (Tues 5:00PM - 5:45PM)
+              Every week we will be covering a specific pattern of algorithms that comes up in coding interviews. The content lecture will overview the topic and give the intuition to understanding the algorithms for that week. It will take place over zoom, and the zoom link will be sent out to every student along with being on the course website and piazza.
+            </li>
+            <li>
+              <h5>Discussion (Tues 5:45PM - 6:30 PM)</h5>
+              The latter 45 minutes of lecture are dedicated to collaborative problem solving with your partner. There are three discussion “sections”, but they are both right after the lecture. 
+              Each discussion section will be headed by a member of course staff (TA). At the beginning of the semester, you and your partner will be assigned one of these discussion sections. You will attend the same section throughout the semester. The discussion is essential because it will build your interpersonal skills, as interviewing is an inherently collaborative activity. 
+              At the beginning of the semester, the discussion will be for working on problem solving collaboratively. The discussion section will begin with the TA presenting the problem, and then opening up breakout rooms for you to go into with your partner. In the last 15 minutes of discussion, you will go back into the main room and the TA will explain the solution to the problem.
+            </li>
+            <li>
+              <h5>Office Hours</h5>
+              Instructors will hold office hours after lecture from 6:30 - 7:30 PM. TA’s will hold office hours on Mondays and Thursdays from 3:00-4:00 PM. TA office hours will have multiple TA’s and an office hours queue similar to CS61A.
+            </li>
+          </ul>
+        </p>
+        
         <h3>Course Objectives</h3>
         <ol>
           <li>
