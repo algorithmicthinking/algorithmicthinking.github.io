@@ -5,7 +5,6 @@ import Kathy from "../headshots/kathy_wu.jpg";
 
 import Ahan from "../headshots/ahan_sabharwal.jpg";
 import Karthik from "../headshots/karthik_balakrishnan.jpg";
-import Ankit from "../headshots/ankit_agarwal.jpg";
 import Megan from "../headshots/megan_zhu.jpg";
 import David from "../headshots/david_zhu.jpg";
 import Kexin from "../headshots/kexin_shu.jpg";
@@ -27,7 +26,7 @@ const focus_areas = {
   hw_mi: "HW + Mock interviews",
   piazza: "Piazza",
   video: "Video walkthrough",
-  head_logistics: "Head logistics TA",
+  head_logistics: "Logistics",
   lecturer: "Lecturer"
 }
 
@@ -51,7 +50,7 @@ export const teachingAssistants = [
   { 
     name: "Jessica Yu", 
     email: "jessica.yu", 
-    bio: "I like to Leet", 
+    bio: "Hey everyone! I’m a third year from Fremont, CA and I’m looking forward to TA for this very meta DeCal. While not grinding Leetcode or talking about grinding Leetcode, I enjoy cooking, apartment-friendly workouts, and rewatching The Good Place. Feel free to email me if you want to make a new friend!", 
     image: Jessica,
     focus_area: focus_areas.head_logistics
   },
