@@ -109,15 +109,12 @@ const Syllabus = () => {
 
         </p>
         <p>
-          <b>Participation</b>: Participation enhances intuition, and we aim to
-          build an algorithmic intuition so that if you were presented with any
-          coding problem you could do it! As interviewing is an interpersonal
-          skill, in-class participation is a major aspect of the course
-          (especially in the mock interviews). Participation is demonstrated by
-          engaging actively in your mock interview and lecture attendance. We
-          will make you fill out feedback forms periodically about your mock
-          interview partner to judge participation. As long as you participate
-          in the breakout rooms, you’ll receive full points.
+          <b>Participation</b>: 
+          Participation enhances intuition, and we aim to build an algorithmic intuition so that if you were presented with any coding problem you could do it! 
+          As interviewing is an interpersonal skill, in-class participation is a major aspect of the course (especially in the mock interviews). 
+          Participation is demonstrated by engaging actively in your discussion and lecture attendance. 
+          We will make you fill out feedback forms periodically about your partner to judge participation. 
+          As long as you participate in the breakout rooms, you’ll receive full points.
         </p>
         <p>
           <b>Homework (8 out of 10 required)</b>: 
