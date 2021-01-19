@@ -140,7 +140,7 @@ const Syllabus = () => {
           <li>Mock Interview 2: 15%</li>
         </ul>
 
-        <h3>Grading Policy (8 out of 10 required)</h3>
+        <h3>Grading Policy</h3>
         <p>
           <b>Attendance (max 2 unexcused absences):</b>
           TWO unexcused absences from our lecture and discussion are allowed.

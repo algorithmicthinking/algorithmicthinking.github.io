@@ -48,6 +48,20 @@ export const facilitators = [
 
 
 export const teachingAssistants = [
+  { 
+    name: "Jessica Yu", 
+    email: "jessica.yu", 
+    bio: "I like to Leet", 
+    image: Jessica,
+    focus_area: focus_areas.head_logistics
+  },
+  { 
+    name: "Kevin Zhu", 
+    email: "zhu502846", 
+    bio: "Hey everyone - I am a 3rd year from Chicago-ish and I'm super excited to help pilot this class! Outside of CS, some of my current hobbies include League, music, and indulging on nostalgic TV shows from the early 2000s/2010s. Feel free to talk to me about anything!", 
+    image: Kevin,
+    focus_area: focus_areas.lecturer
+  },
   {
     name: "Ahan Sabharwal",
     email: "ahan.sabharwal",
@@ -91,12 +105,6 @@ export const teachingAssistants = [
     bio: "Hi everyone, I’m Ian! I’m a junior EECS major hailing from Santa Monica, CA. Love the beach, thrilling sports, and music (Rock, EDM, and Rap). Excited to help teach the usefulness of algorithms and data structures this semester!", 
     image: Ian,
     focus_area: focus_areas.piazza
-  },
-  { name: "Kevin Zhu", 
-    email: "zhu502846", 
-    bio: "Hey everyone - I am a 3rd year from Chicago-ish and I'm super excited to help pilot this class! Outside of CS, some of my current hobbies include League, music, and indulging on nostalgic TV shows from the early 2000s/2010s. Feel free to talk to me about anything!", 
-    image: Kevin,
-    focus_area: focus_areas.lecturer
   },
   { name: "Richard Zhu", 
     email: "rszhu", 
@@ -146,11 +154,5 @@ export const teachingAssistants = [
     bio: "Hey! I'm a 2nd year CS major from SoCal. In my free time I enjoy listening to music, watching old movies, and playing league with the boys. I'm looking forward to meeting you all!", 
     image: Julian,
     focus_area: focus_areas.wd
-  },
-  { name: "Jessica Yu", 
-    email: "jessica.yu", 
-    bio: "I like to Leet", 
-    image: Jessica,
-    focus_area: focus_areas.head_logistics
   },
 ];

@@ -23,14 +23,14 @@ const Resources = () => {
           .
         </p>
 
-        <h3>Lecture Slides</h3>
+        {/* <h3>Lecture Slides</h3>
         <ul>
           <li>
             <a target="_blank" rel="noreferrer" href=".">
               Introduction
             </a>
           </li>
-        </ul>
+        </ul> */}
       </Col>
     </Row>
   );
