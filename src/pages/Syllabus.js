@@ -34,8 +34,12 @@ const Syllabus = () => {
             </a>
           </li>
           <li>
-            <b>Prerequisites:</b> CS 61A OR Data 8 OR Python programming
-            experience
+            <b>Prerequisites: </b>
+            CS 61A OR Data 8 OR Python programming experience
+          </li>
+          <li>
+            <b>Textbooks and Course Materials: </b>
+            No course materials required, only a Leetcode account
           </li>
         </ul>
         <h3>Course Description</h3>
@@ -66,7 +70,7 @@ const Syllabus = () => {
             </li>
           </ul>
         </p>
-        
+
         <h3>Course Objectives</h3>
         <ol>
           <li>
