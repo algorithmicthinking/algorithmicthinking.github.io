@@ -142,7 +142,7 @@ const Syllabus = () => {
 
         <h3>Grading Policy</h3>
         <p>
-          <b>Attendance (max 2 unexcused absences):</b>
+          <b>Attendance (max 2 unexcused absences): </b>
           TWO unexcused absences from our lecture and discussion are allowed.
           For a class to be excused, you MUST get advance permission (just{" "}
           <a href="mailto:leetcodedecal@gmail.com">email us</a> we’re nice!).
