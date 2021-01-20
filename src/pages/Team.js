@@ -14,18 +14,18 @@ const Team = () => {
         <h3>DeCal Facilitators</h3>
         <Row>
           {facilitators.map((member, index) => (
-            <div class=" col-md-6 my-4">
+            <div class="col-md-6 my-4 staff-container">
               <img
                 src={member.image}
                 alt={member.name}
-                class="mr-3 rounded-circle staff-image"
-              ></img>
-              <div class="media-body">
-                <h4 class="my-0">{member.name}</h4>
+                class="rounded-circle staff-image"
+              />
+              <div class="media-body staff-description">
+                <h4 class="my-0 mt-2 font-weight-bold">{member.name}</h4>
                 <p class="my-1">{member.email}@</p>
 
                 <span class="staff-bio">
-                  <p>{member.bio}</p>
+                  <p class="mt-2">{member.bio}</p>
                 </span>
               </div>
             </div>
@@ -35,21 +35,20 @@ const Team = () => {
         <h3>TAs</h3>
         <Row>
           {teachingAssistants.map((member, index) => (
-            <div class="col-md-6 my-4">
+            <div class="col-md-6 my-4 staff-container">
               <img
                 src={member.image}
                 alt={member.name}
-                class="mr-3 rounded-circle staff-image"
-              ></img>
-              <div class="media-body">
-                <h4 class="my-0">{member.name}</h4>
-
+                class="rounded-circle staff-image"
+              />
+              <div class="media-body staff-description">
+                <h4 class="my-0 mt-2 font-weight-bold">{member.name}</h4>
                 <p class="my-1">{member.email}@</p>
-
-                <p className="my-1"><i>{member.focus_area}</i></p>
-
+                <p className="my-1">
+                  <i>{member.focus_area}</i>
+                </p>
                 <span class="staff-bio">
-                  <p>{member.bio}</p>
+                  <p class="mt-2">{member.bio}</p>
                 </span>
               </div>
             </div>

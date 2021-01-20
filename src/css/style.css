@@ -279,21 +279,34 @@ h4 {
   text-align: center;
 }
 
+.staff-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.staff-description {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
 .staff-image {
-  height: 120px;
-  width: 120px;
+  height: 150px;
+  width: 150px;
   flex-shrink: 0;
   background-size: cover;
   background-position: center;
 }
 
 .staff-image-sm {
-  height: 60px;
-  width: 60px;
+  height: 80px;
+  width: 80px;
 }
 
 .staff-bio {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .fc-time-grid .fc-slats td {
