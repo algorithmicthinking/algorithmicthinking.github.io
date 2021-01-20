@@ -20,6 +20,7 @@ import Artem from "../headshots/artem_tkachuk.jpeg";
 import Harris from "../headshots/harris_shadmany.jpg";
 import Julian from "../headshots/julian_meyn.jpg";
 import Jessica from "../headshots/jessica_yu.jpg";
+import Samuel from "../headshots/samuel_lee.jpg";
 
 const focus_areas = {
   wd: "Web Development",
@@ -189,7 +190,7 @@ export const teachingAssistants = [
     email: "samatbryan",
     bio:
       "Hello~ I am a 4th year CS major from Korea/NJ. In my free time, I like to compete in programming competitions. Since this is a leetcode class, I'll post my leetcode handle here :) leetcode.com/BlackpinkLisa. If you also like Blackpink or compete in any contests, shoot me a message!",
-    image: Julian,
-    focus_area: focus_areas.wd,
+    image: Samuel,
+    focus_area: focus_areas.video,
   },
 ];
