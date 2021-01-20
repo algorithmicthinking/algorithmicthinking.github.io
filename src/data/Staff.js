@@ -184,4 +184,12 @@ export const teachingAssistants = [
     image: Julian,
     focus_area: focus_areas.wd,
   },
+  {
+    name: "Samuel Lee",
+    email: "samatbryan",
+    bio:
+      "Hello~ I am a 4th year CS major from Korea/NJ. In my free time, I like to compete in programming competitions. Since this is a leetcode class, I'll post my leetcode handle here :) leetcode.com/BlackpinkLisa. If you also like Blackpink or compete in any contests, shoot me a message!",
+    image: Julian,
+    focus_area: focus_areas.wd,
+  },
 ];
