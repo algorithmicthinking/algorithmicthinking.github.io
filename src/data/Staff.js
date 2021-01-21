@@ -29,6 +29,7 @@ const focus_areas = {
   video: "Video walkthrough",
   head_logistics: "Logistics",
   lecturer: "Lecturer",
+  disc: "Discussion Leader",
 };
 
 export const facilitators = [
@@ -71,7 +72,7 @@ export const teachingAssistants = [
     bio:
       "Hi everyone! I’m a junior studying Data Science and CS. I’m interested in systems, ML infra, and algorithms. Super excited to TA the course and help everyone with interview prep!",
     image: Ahan,
-    focus_area: focus_areas.video,
+    focus_area: focus_areas.disc,
   },
   {
     name: "Karthik Balakrishnan",
