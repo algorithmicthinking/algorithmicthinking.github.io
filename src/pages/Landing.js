@@ -20,13 +20,16 @@ const Landing = () => {
       <Row>
         <Col>
           <h1>
-            <b>Leetcode 101</b> | Introduction to Algorithmic Thinking
+            <b style={{ color: "#ED9705" }}>Leetcode 101</b> |{" "}
+            <span style={{ color: "#008ECB" }}>
+              Introduction to Algorithmic Thinking
+            </span>
           </h1>
           <h2>Spring 2021</h2>
-          <h1>Announcements</h1>
+          <h2>Announcements</h2>
           <p>
-            Enrollment is now closed!
-            Check back later as our site is still being updated.
+            Enrollment is now closed! Check back later as our site is still
+            being updated.
           </p>
         </Col>
       </Row>

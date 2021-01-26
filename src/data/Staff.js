@@ -1,5 +1,3 @@
-import Temp from "../img/logo.png";
-
 import MichaelJ from "../headshots/mike.jpeg";
 import Kathy from "../headshots/kathy_wu.jpg";
 
@@ -30,6 +28,7 @@ const focus_areas = {
   head_logistics: "Logistics",
   lecturer: "Lecturer",
   disc: "Discussion Leader",
+  fac: "Facilitator",
 };
 
 export const facilitators = [
@@ -39,6 +38,7 @@ export const facilitators = [
     bio:
       "Hi all! I’m Michael, a third year CS/Premed student, and I’m excited to be co-facilitating the first semester of this decal with Kathy! DM me on Discord or come to OH if you want to vent about toxicity in CS, chat about the Great British Baking Show, play TF2 with my little brother and I (my favorite class is the spy), discuss algorithms, or anything in between!",
     image: MichaelJ,
+    focus_area: focus_areas.fac,
   },
   {
     name: "Kathy Wu",
@@ -46,6 +46,7 @@ export const facilitators = [
     bio:
       "Hey everyone! My name is Kathy, and I'm a 3rd year CS major from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!",
     image: Kathy,
+    focus_area: focus_areas.fac,
   },
 ];
 
