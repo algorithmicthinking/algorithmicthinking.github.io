@@ -24,9 +24,6 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   .table {
-    th {
-      color: ${({ theme }) => theme.text};
-    }
     td {
       color: ${({ theme }) => theme.text};
     }
