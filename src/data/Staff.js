@@ -143,7 +143,7 @@ export const teachingAssistants = [
     name: "Samarth Goel",
     email: "sgoel9",
     bio:
-      "Hey everyone! My name's Samarth and I'm a sophomore from the Chicago suburbs studying CS and Business. In my free time I enjoy long walks, practicing guitar, and playing the drums in the Cal band. Feel free to talk to me about anything!",
+      "Hey everyone! My name's Samarth and I'm a sophomore from the Chicago suburbs studying CS and Business. In my free time I enjoy long walks in random directions, practicing guitar, and playing the drums in the Cal band. Feel free to talk to me about anything!",
     image: Samarth,
     focus_area: focus_areas.wd,
   },
