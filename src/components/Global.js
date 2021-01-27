@@ -28,4 +28,8 @@ export const GlobalStyles = createGlobalStyle`
       color: ${({ theme }) => theme.text};
     }
   }
+
+  a {
+    color: ${({ theme }) => theme.link};
+  }
   `;
