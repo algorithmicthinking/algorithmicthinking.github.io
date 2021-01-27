@@ -3,9 +3,11 @@ import React from "react";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
+import "../css/syllabus.scss";
+
 const Syllabus = () => {
   return (
-    <Row>
+    <Row className="syllabus">
       <Col>
         <a class="anchor" id="syllabus"></a>
         <h2>Syllabus</h2>
@@ -13,7 +15,7 @@ const Syllabus = () => {
         <a class="anchor" id="courseInfo"></a>
         <ul>
           <li>
-            <b>Course Title:</b> Introduction to Algorithmic Thinking
+            <b>Course Title</b>: Introduction to Algorithmic Thinking
           </li>
           <li>
             <b>Units</b>: 2
@@ -34,8 +36,8 @@ const Syllabus = () => {
             </a>
           </li>
           <li>
-            <b>Prerequisites: </b>
-            CS 61A OR Data 8 OR Python programming experience
+            <b>Prerequisites</b>: CS 61A OR Data 8 OR Python programming
+            experience
           </li>
           <li>
             <b>Textbooks and Course Materials: </b>
@@ -142,9 +144,9 @@ const Syllabus = () => {
 
         <h3>Grading Policy</h3>
         <p>
-          <b>Attendance (max 2 unexcused absences): </b>
-          TWO unexcused absences from our lecture and discussion are allowed.
-          For a class to be excused, you MUST get advance permission (just{" "}
+          <b>Attendance (max 2 unexcused absences)</b>: TWO unexcused absences
+          from our lecture and discussion are allowed. For a class to be
+          excused, you MUST get advance permission (just{" "}
           <a href="mailto:leetcodedecal@gmail.com">email us</a> we’re nice!).
           Having more than 2 unexcused classes will result in an automatic No
           Pass (NP). Please reach out to us if you have any questions or

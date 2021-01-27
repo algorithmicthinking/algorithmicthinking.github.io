@@ -21,9 +21,16 @@ const Team = () => {
                 class="rounded-circle staff-image"
               />
               <div class="media-body staff-description">
-                <h4 class="my-0 mt-2 font-weight-bold">{member.name}</h4>
+                <h4
+                  class="my-0 mt-2 font-weight-bold"
+                  style={{ color: "#ED9705" }}
+                >
+                  {member.name}
+                </h4>
                 <p class="my-1">{member.email}@</p>
-
+                <p className="my-1" style={{ color: "#008ECB" }}>
+                  <i>{member.focus_area}</i>
+                </p>
                 <span class="staff-bio">
                   <p class="mt-2">{member.bio}</p>
                 </span>
@@ -32,19 +39,24 @@ const Team = () => {
           ))}
         </Row>
 
-        <h3>TAs</h3>
+        <h3>Teaching Assistants</h3>
         <Row>
           {teachingAssistants.map((member, index) => (
-            <div class="col-md-6 my-4 staff-container">
+            <div class="col-12 col-sm-6 col-md-4 my-4 staff-container">
               <img
                 src={member.image}
                 alt={member.name}
                 class="rounded-circle staff-image"
               />
               <div class="media-body staff-description">
-                <h4 class="my-0 mt-2 font-weight-bold">{member.name}</h4>
+                <h4
+                  class="my-0 mt-2 font-weight-bold"
+                  style={{ color: "#ED9705" }}
+                >
+                  {member.name}
+                </h4>
                 <p class="my-1">{member.email}@</p>
-                <p className="my-1">
+                <p className="my-1" style={{ color: "#008ECB" }}>
                   <i>{member.focus_area}</i>
                 </p>
                 <span class="staff-bio">

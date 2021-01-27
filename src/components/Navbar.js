@@ -27,7 +27,7 @@ const SiteNavbar = () => {
     <Navbar expand="lg" sticky="top" className="navbar">
       <Navbar.Brand href="#home">
         <img src={Logo} alt="" />
-        <strong>Leetcode 101 DeCal</strong>
+        <strong style={{ color: "#ED9705" }}>Leetcode 101 DeCal</strong>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="navbar-nav" />
       <Navbar.Collapse id="navbar-nav">
