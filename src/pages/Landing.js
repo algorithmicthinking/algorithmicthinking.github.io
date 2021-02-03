@@ -56,7 +56,11 @@ const Landing = () => {
                   <tr>
                     <td class="center">{index}</td>
                     <td class="center">{week.date}</td>
-                    <td>{week.topic}</td>
+                    <td>{week.topic} {" "}
+                      {week.slides
+                        ? <><a href={week.slides}>[Slides]</a> <a href={week.video}>[Recording]</a></>
+                        : ""}
+                    </td>
                     <td>
                       {week.problems.length
                         ? week.problems.map((problem, index) => (

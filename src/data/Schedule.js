@@ -3,6 +3,8 @@ export const schedule = [
   {
     date: "02/02 Tu",
     topic: "Introduction, Recruiting Timeline, and Recruiting Resources",
+    slides: "https://docs.google.com/presentation/d/1_y4kxhhoTWpjNr9CDmBoS1fuj5DwcWH_SKWitKxNHlc/edit?usp=sharing",
+    video: "https://drive.google.com/file/d/1MbAQTcs3UPtHU1SkI2eaR_2BQS_1X0zI/view?usp=sharing",
     problems: [],
     homework: "Get a LeetCode Account",
     due: "02/08 Mon",
@@ -11,6 +13,8 @@ export const schedule = [
   {
     date: "02/09 Tu",
     topic: "Behavioral Questions and Communicating Thought Process",
+    //slides: "",
+    //video: "",
     problems: [
       // { name: "Big O, Space Complexity", link: "" }
     ],
