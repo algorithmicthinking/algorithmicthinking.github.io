@@ -110,7 +110,7 @@ const Syllabus = () => {
               Instructors will hold office hours after lecture from 6:30 - 7:30
               PM. TA’s will hold office hours on Mondays and Thursdays from
               3:00-4:00 PM. TA office hours will have multiple TA’s and an
-              office hours queue similar to CS61A.
+              office hours queue similar to CS61A. Officer hours can be found <a target="_blank" href="https://oh.leetcode101.com">here</a>.
             </li>
           </ul>
         </p>
