@@ -46,7 +46,7 @@ const Landing = () => {
                   <th>Week</th>
                   <th>Date</th>
                   <th>Lecture Topic</th>
-                  <th>Problems Covered</th>
+                  <th>Section</th>
                   <th>Homework</th>
                 </tr>
               </thead>
@@ -62,6 +62,23 @@ const Landing = () => {
                         : ""}
                     </td>
                     <td>
+                      <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href={week.sectionProblem}
+                      >
+                        {week.sectionName}
+                      </a>
+                    </td>
+                    <td class="center">
+                      {week.homework}
+                      {week.due && (
+                        <>
+                          <br />
+                          <i>Due {week.due}</i>
+                        </>
+                      )}
+                      <br />
                       {week.problems.length
                         ? week.problems.map((problem, index) => (
                             <>
@@ -76,15 +93,6 @@ const Landing = () => {
                             </>
                           ))
                         : ""}
-                    </td>
-                    <td class="center">
-                      {week.homework}
-                      {week.due && (
-                        <>
-                          <br />
-                          <i>Due {week.due}</i>
-                        </>
-                      )}
                     </td>
                   </tr>
                 </tbody>

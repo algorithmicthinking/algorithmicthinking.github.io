@@ -2,37 +2,70 @@ export const schedule = [
   // Week 0
   {
     date: "02/02 Tu",
-    topic: "Introduction, Recruiting Timeline, and Recruiting Resources",
+    topic: "Introduction and a Brief Overview of the Interview Process",
     slides: "https://docs.google.com/presentation/d/1_y4kxhhoTWpjNr9CDmBoS1fuj5DwcWH_SKWitKxNHlc/edit?usp=sharing",
     video: "https://drive.google.com/file/d/1MbAQTcs3UPtHU1SkI2eaR_2BQS_1X0zI/view?usp=sharing",
     problems: [],
+    sectionName: "N/A",
+    sectionProblem: "",
     homework: "Get a LeetCode Account",
     due: "02/08 Mon",
   },
   // Week 1
   {
     date: "02/09 Tu",
-    topic: "Behavioral Questions and Communicating Thought Process",
+    topic: "Basic Structures",
     //slides: "",
     //video: "",
+    sectionName: "Add Strings", 
+    sectionProblem: "https://leetcode.com/problems/add-strings/",
     problems: [
-      // { name: "Big O, Space Complexity", link: "" }
+      { 
+        name: "Climbing stairs", 
+        link: "https://leetcode.com/problems/climbing-stairs/" 
+      },
+      { 
+        name: "Contains duplicate",
+        link: "https://leetcode.com/problems/contains-duplicate/"
+      },
+      {
+        name: "Best time to buy and sell stock",
+        link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+      },
+      {
+        name: "Product of array except self",
+        link: "https://leetcode.com/problems/product-of-array-except-self/"
+      },
     ],
-    // homework: "Homework 1",
-    // due: "02/15 Mon",
+    homework: "Homework 1",
+    due: "02/15 Mon",
   },
   // Week 2
   {
     date: "02/16 Tu",
-    topic: "Arrays, Strings, and Dictionaries",
+    topic: "Linked Lists",
+    sectionName: "Add Two Numbers", 
+    sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
-      //   name: "Contains Duplicate",
-      //   link: "https://leetcode.com/problems/contains-duplicate/",
+      //   name: "Reverse a Linked List",
+      //   link: "https://leetcode.com/problems/reverse-linked-list/",
       // },
       // {
-      //   name: "Rotate String",
-      //   link: "https://leetcode.com/problems/rotate-string/",
+      //   name: "Reverse Linked List ii",
+      //   link: "https://leetcode.com/problems/reverse-linked-list-ii/",
+      // },
+      // {
+      //   name: "Flatten a multilevel doubly linked list",
+      //   link: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+      // },
+      // {
+      //   name: "Remove nth node from the end",
+      //   link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      // },
+      // {
+      //   name: "Merge 2 sorted lists",
+      //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
       // },
     ],
     // homework: "Homework 2",
@@ -41,19 +74,27 @@ export const schedule = [
   // Week 3
   {
     date: "02/23 Tu",
-    topic: "Linked Lists",
+    topic: "Two Pointers/Binary Search",
     problems: [
       // {
-      //   name: "Reverse a linked list",
-      //   link: "https://leetcode.com/problems/reverse-linked-list/",
+      //   name: "Two Sum ii",
+      //   link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
       // },
       // {
-      //   name: "Merge 2 sorted lists",
-      //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
+      //   name: "Three Sum",
+      //   link: "https://leetcode.com/problems/3sum/ ",
       // },
       // {
-      //   name: "Remove nth node",
-      //   link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      //   name: "Container with most water",
+      //   link: "https://leetcode.com/problems/container-with-most-water/",
+      // },
+      // {
+      //   name: "Squares of a Sorted Array",
+      //   link: "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      // },
+      // {
+      //   name: "First and last position in a sorted",
+      //   link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
       // },
     ],
     // homework: "Homework 3",
@@ -62,8 +103,29 @@ export const schedule = [
   // Week 4
   {
     date: "03/02 Tu",
-    topic: "Two Pointers and Binary Search",
-    problems: [],
+    topic: "Stacks, Heaps, and Queues",
+    problems: [
+      {
+        name: "Valid parentheses",
+        link: "",
+      },
+      {
+        name: "Valid parentheses",
+        link: "",
+      },
+      {
+        name: "",
+        link: "",
+      },
+      {
+        name: "",
+        link: "",
+      },
+      {
+        name: "",
+        link: "",
+      },
+    ],
     // homework: "Homework 4",
     // due: "03/08 Mon",
   },
@@ -97,7 +159,12 @@ export const schedule = [
   {
     date: "03/23 Tu",
     topic: "Spring Break",
-    problems: [],
+    problems: [
+      {
+        name: "",
+        link: "",
+      },
+    ],
     // homework: "No Homework! Enjoy your break.",
     // due: "",
   },
@@ -105,7 +172,12 @@ export const schedule = [
   {
     date: "03/30 Tu",
     topic: "Trees",
-    problems: [],
+    problems: [
+      {
+        name: "",
+        link: "",
+      },
+    ],
     // homework: "Homework 7",
     // due: "04/05 Mon",
   },
@@ -113,7 +185,12 @@ export const schedule = [
   {
     date: "04/06 Tu",
     topic: "Graphs",
-    problems: [],
+    problems: [
+      {
+        name: "",
+        link: "",
+      },
+    ],
     // homework: "Homework 8",
     // due: "04/12 Mon",
   },
@@ -121,7 +198,12 @@ export const schedule = [
   {
     date: "04/13 Tu",
     topic: "Dynamic Programming",
-    problems: [],
+    problems: [
+      {
+        name: "",
+        link: "",
+      },
+    ],
     // homework: "Homework 9",
     // due: "04/19 Mon",
   },
