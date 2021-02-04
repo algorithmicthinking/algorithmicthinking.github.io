@@ -44,8 +44,8 @@ export const schedule = [
   {
     date: "02/16 Tu",
     topic: "Linked Lists",
-    sectionName: "Add Two Numbers", 
-    sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
       //   name: "Reverse a Linked List",
@@ -105,26 +105,26 @@ export const schedule = [
     date: "03/02 Tu",
     topic: "Stacks, Heaps, and Queues",
     problems: [
-      {
-        name: "Valid parentheses",
-        link: "",
-      },
-      {
-        name: "Valid parentheses",
-        link: "",
-      },
-      {
-        name: "",
-        link: "",
-      },
-      {
-        name: "",
-        link: "",
-      },
-      {
-        name: "",
-        link: "",
-      },
+      // {
+      // name: "Valid parentheses",
+      //   link: "https://leetcode.com/problems/valid-parentheses/",
+      // },
+      // {
+      //   name: "Minimum to remove to make valid parenthesis",
+      //   link: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      // },
+      // {
+      //   name: "K closest points to origin",
+      //   link: "https://leetcode.com/problems/k-closest-points-to-origin/",
+      // },
+      // {
+      //   name: "LRU Cache",
+      //   link: "https://leetcode.com/problems/lru-cache/",
+      // },
+      // {
+      // name: "Task Scheduler",
+      // link: "https://leetcode.com/problems/task-scheduler/",
+      // },
     ],
     // homework: "Homework 4",
     // due: "03/08 Mon",
@@ -132,7 +132,7 @@ export const schedule = [
   // Week 5
   {
     date: "03/09 Tu",
-    topic: "Stacks, Heaps, and Queues",
+    topic: "Mock Interview I",
     problems: [
       // {
       //   name: "Kth smallest element in BST",
