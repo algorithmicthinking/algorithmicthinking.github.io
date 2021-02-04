@@ -27,7 +27,7 @@ const Syllabus = () => {
             <b>Instructors</b>: Michael Jayasuriya and Kathy Wu
           </li>
           <li>
-            <b>Faculty Sponsor</b>: Jelani Nelson
+            <b>Faculty Sponsor</b>: <a href="https://people.eecs.berkeley.edu/~minilek/">Jelani Nelson</a>
           </li>
           <li>
             <b>Course Catalog</b>:{" "}

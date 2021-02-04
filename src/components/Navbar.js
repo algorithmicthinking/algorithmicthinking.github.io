@@ -56,11 +56,9 @@ const SiteNavbar = () => {
             <p>Discord</p>
           </Nav.Link>
           <Nav.Link
-            target="_blank"
-            rel="noreferrer"
-            href="https://wiki.python.org/moin/TimeComplexity"
+            href="#resources"
           >
-            <p>Reference</p>
+            <p>Resources</p>
           </Nav.Link>
           <div className="toggle">
             <ThemeProvider theme={themeMode}>
