@@ -37,8 +37,8 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/product-of-array-except-self/"
       // },
     ],
-    homework: "Homework 1",
-    due: "02/15 Mon",
+    // homework: "Homework 1",
+    // due: "02/15 Mon",
   },
   // Week 2
   {
