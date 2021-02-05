@@ -28,8 +28,10 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Announcements</h2>
           <p>
-            Enrollment is now closed! Check back later as our site is still
-            being updated.
+            Welcome to Introduction to Algorithmic Thinking @ Cal.
+            Make sure to join the <a target="_blank" href="https://piazza.com/berkeley/spring2021/cs198112">class piazza</a> and join the Gradescope (@52). 
+            <br />
+            Homework 1 has been released: Make a leetcode account before next lecture, see @61 on Piazza for more information.
           </p>
         </Col>
       </Row>
