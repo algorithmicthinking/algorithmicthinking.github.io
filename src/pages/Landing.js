@@ -56,7 +56,10 @@ const Landing = () => {
                   <tr>
                     <td class="center">{index}</td>
                     <td class="center">{week.date}</td>
-                    <td>{week.topic} {" "}
+                    <td>
+                      {week.topic}
+                      <br />
+                      {week.extra ? <>{week.extra} <br /> </>: ""}
                       {week.slides
                         ? <><a href={week.slides}>[Slides]</a> <a href={week.video}>[Recording]</a></>
                         : ""}

@@ -17,25 +17,25 @@ export const schedule = [
     topic: "Basic Structures",
     //slides: "",
     //video: "",
-    sectionName: "Add Strings", 
-    sectionProblem: "https://leetcode.com/problems/add-strings/",
+    // sectionName: "Add Strings", 
+    // sectionProblem: "https://leetcode.com/problems/add-strings/",
     problems: [
-      { 
-        name: "Climbing stairs", 
-        link: "https://leetcode.com/problems/climbing-stairs/" 
-      },
-      { 
-        name: "Contains duplicate",
-        link: "https://leetcode.com/problems/contains-duplicate/"
-      },
-      {
-        name: "Best time to buy and sell stock",
-        link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
-      },
-      {
-        name: "Product of array except self",
-        link: "https://leetcode.com/problems/product-of-array-except-self/"
-      },
+      // { 
+      //   name: "Climbing stairs", 
+      //   link: "https://leetcode.com/problems/climbing-stairs/" 
+      // },
+      // { 
+      //   name: "Contains duplicate",
+      //   link: "https://leetcode.com/problems/contains-duplicate/"
+      // },
+      // {
+      //   name: "Best time to buy and sell stock",
+      //   link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+      // },
+      // {
+      //   name: "Product of array except self",
+      //   link: "https://leetcode.com/problems/product-of-array-except-self/"
+      // },
     ],
     homework: "Homework 1",
     due: "02/15 Mon",
@@ -75,6 +75,8 @@ export const schedule = [
   {
     date: "02/23 Tu",
     topic: "Two Pointers/Binary Search",
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
       //   name: "Two Sum ii",
@@ -104,6 +106,8 @@ export const schedule = [
   {
     date: "03/02 Tu",
     topic: "Stacks, Heaps, and Queues",
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
       // name: "Valid parentheses",
@@ -132,11 +136,14 @@ export const schedule = [
   // Week 5
   {
     date: "03/09 Tu",
-    topic: "Mock Interview I",
+    topic: "Sliding WindOwO",
+    extra: "Mock Interview I",
+    // sectionName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit", 
+    // sectionProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
     problems: [
       // {
-      //   name: "Kth smallest element in BST",
-      //   link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      //   name: "Longest substring without repeating characters",
+      //   link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
       // },
     ],
     // homework: "Homework 5",
@@ -145,7 +152,9 @@ export const schedule = [
   // Week 6
   {
     date: "03/16 Tu",
-    topic: "Sliding WindOwO",
+    topic: "",
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
       //   name: "Number of Islands",
@@ -159,7 +168,9 @@ export const schedule = [
   {
     date: "03/23 Tu",
     topic: "Spring Break",
-    problems: [
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [
       {
         name: "",
         link: "",
@@ -172,7 +183,9 @@ export const schedule = [
   {
     date: "03/30 Tu",
     topic: "Trees",
-    problems: [
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [
       {
         name: "",
         link: "",
@@ -185,7 +198,9 @@ export const schedule = [
   {
     date: "04/06 Tu",
     topic: "Graphs",
-    problems: [
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [
       {
         name: "",
         link: "",
@@ -198,7 +213,9 @@ export const schedule = [
   {
     date: "04/13 Tu",
     topic: "Dynamic Programming",
-    problems: [
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [
       {
         name: "",
         link: "",
@@ -211,7 +228,9 @@ export const schedule = [
   {
     date: "04/20 Tu",
     topic: "Object Oriented Programming",
-    problems: [],
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [],
     // homework: "Homework 10",
     // due: "04/26 Mon",
   },
@@ -219,7 +238,9 @@ export const schedule = [
   {
     date: "04/27 Tu",
     topic: "Guest Speaker: TBD",
-    problems: [],
+    // sectionName: "Add Two Numbers", 
+    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+   problems: [],
     // homework: "Homework 11",
     // due: "05/03 Mon",
   },
