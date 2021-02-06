@@ -67,13 +67,14 @@ const Landing = () => {
                         : ""}
                     </td>
                     <td>
-                      <a
+                      {week.sectionName ?
+                        <a
                         target="_blank"
                         rel="noreferrer"
                         href={week.sectionProblem}
                       >
                         {week.sectionName}
-                      </a>
+                      </a> : ""}
                     </td>
                     <td class="center">
                       {week.homework}
