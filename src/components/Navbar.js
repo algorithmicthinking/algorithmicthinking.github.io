@@ -29,7 +29,7 @@ const SiteNavbar = () => {
         <img src={Logo} alt="" />
         <strong style={{ color: "#ED9705" }}>Leetcode 101 DeCal</strong>
       </Navbar.Brand>
-      <Navbar.Toggle aria-controls="navbar-nav" />
+      <Navbar.Toggle aria-controls="navbar-nav" style={{ backgroundColor: "darkgrey" }} />
       <Navbar.Collapse id="navbar-nav">
         <Nav className="ml-auto">
           <Nav.Link href="#schedule">
