@@ -44,6 +44,13 @@ const SiteNavbar = () => {
           <Nav.Link
             target="_blank"
             rel="noreferrer"
+            href="https://oh.leetcode101.com"
+          >
+            <p>OH Queue</p>
+          </Nav.Link>
+          <Nav.Link
+            target="_blank"
+            rel="noreferrer"
             href="https://piazza.com/berkeley/spring2021/cs198112"
           >
             <p>Piazza</p>
