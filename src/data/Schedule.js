@@ -153,6 +153,7 @@ export const schedule = [
   {
     date: "03/16 Tu",
     topic: "Two Pointers",
+    extra: "Mock Interview I",
     // sectionName: "",
     // sectionProblem: "",
     problems: [
