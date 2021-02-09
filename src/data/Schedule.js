@@ -3,8 +3,10 @@ export const schedule = [
   {
     date: "02/02 Tu",
     topic: "Introduction and a Brief Overview of the Interview Process",
-    slides: "https://docs.google.com/presentation/d/1_y4kxhhoTWpjNr9CDmBoS1fuj5DwcWH_SKWitKxNHlc/edit?usp=sharing",
-    video: "https://drive.google.com/file/d/1MbAQTcs3UPtHU1SkI2eaR_2BQS_1X0zI/view?usp=sharing",
+    slides:
+      "https://docs.google.com/presentation/d/1_y4kxhhoTWpjNr9CDmBoS1fuj5DwcWH_SKWitKxNHlc/edit?usp=sharing",
+    video:
+      "https://drive.google.com/file/d/1MbAQTcs3UPtHU1SkI2eaR_2BQS_1X0zI/view?usp=sharing",
     problems: [],
     sectionName: "",
     sectionProblem: "",
@@ -14,17 +16,17 @@ export const schedule = [
   // Week 1
   {
     date: "02/09 Tu",
-    topic: "Basic Structures",
+    topic: "Basic Data Structures and Problem Solving",
     //slides: "",
     //video: "",
-    // sectionName: "Valid anagram", 
+    // sectionName: "Valid anagram",
     // sectionProblem: "https://leetcode.com/problems/valid-anagram/",
     problems: [
-      // { 
+      // {
       //   name: "Two Sum",
       //   link: "https://leetcode.com/problems/two-sum/"
       // },
-      // { 
+      // {
       //   name: "Contains duplicate",
       //   link: "https://leetcode.com/problems/contains-duplicate/"
       // },
@@ -36,7 +38,7 @@ export const schedule = [
       //   name: "Merge Intervals",
       //   link: "https://leetcode.com/problems/merge-intervals/"
       // },
-      // {        
+      // {
       //   name: "Product of array except self",
       //   link: "https://leetcode.com/problems/product-of-array-except-self/"
       // },
@@ -48,7 +50,7 @@ export const schedule = [
   {
     date: "02/16 Tu",
     topic: "Linked Lists",
-    // sectionName: "Add Two Numbers", 
+    // sectionName: "Add Two Numbers",
     // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
       // {
@@ -78,8 +80,8 @@ export const schedule = [
   // Week 3
   {
     date: "02/23 Tu",
-    topic: "Two Pointers/Binary Search",
-    // sectionName: "Valid Palindrome", 
+    topic: "Binary Search Problems",
+    // sectionName: "Valid Palindrome",
     // sectionProblem: "https://leetcode.com/problems/valid-palindrome/",
     problems: [
       // {
@@ -109,8 +111,8 @@ export const schedule = [
   // Week 4
   {
     date: "03/02 Tu",
-    topic: "Stacks, Heaps, and Queues",
-    // sectionName: "kth largest element", 
+    topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
+    // sectionName: "kth largest element",
     // sectionProblem: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
     problems: [
       // {
@@ -140,39 +142,17 @@ export const schedule = [
   // Week 5
   {
     date: "03/09 Tu",
-    topic: "Sliding WindOwO",
-    extra: "Mock Interview I",
-    // sectionName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit", 
-    // sectionProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
-    problems: [
-      // {
-      //   name: "Longest substring without repeating characters",
-      //   link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-      // },
-      // {
-      //   name: "Maximum points you can obtain from cards",
-      //   link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-      // },
-      // {
-      //   name: "Maximum continuous ones",
-      //   link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
-      // },
-      // {
-      //   name: "Permutation in string",
-      //   link: "https://leetcode.com/problems/permutation-in-string/",
-      // },
-      // {
-      //   name: "Minimum window substring",
-      //   link: "https://leetcode.com/problems/minimum-window-substring/",
-      // },
-    ],
-    // homework: "Homework 5",
-    // due: "03/15 Mon",
+    topic: "Object Oriented Programming",
+    // sectionName: "",
+    // sectionProblem: "",
+    problems: [],
+    // homework: "Homework 10",
+    // due: "04/26 Mon",
   },
   // Week 6
   {
     date: "03/16 Tu",
-    topic: "Trees",
+    topic: "Two Pointers",
     // sectionName: "",
     // sectionProblem: "",
     problems: [
@@ -188,9 +168,9 @@ export const schedule = [
   {
     date: "03/23 Tu",
     topic: "Spring Break",
-    // sectionName: "Add Two Numbers", 
+    // sectionName: "Add Two Numbers",
     // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
-   problems: [
+    problems: [
       {
         name: "",
         link: "",
@@ -202,10 +182,25 @@ export const schedule = [
   // Week 8
   {
     date: "03/30 Tu",
+    topic: "Trees",
+    // sectionName: "",
+    // sectionProblem: "",
+    problems: [
+      // {
+      //   name: "",
+      //   link: "",
+      // },
+    ],
+    // homework: "Homework 6",
+    // due: "03/29 Mon",
+  },
+  // Week 9
+  {
+    date: "04/06 Tu",
     topic: "Graphs",
     // sectionName: "",
     // sectionProblem: "",
-   problems: [
+    problems: [
       {
         name: "",
         link: "",
@@ -214,13 +209,13 @@ export const schedule = [
     // homework: "Homework 7",
     // due: "04/05 Mon",
   },
-  // Week 9
+  // Week 10
   {
-    date: "04/06 Tu",
+    date: "04/13 Tu",
     topic: "Greedy",
-    // sectionName: "", 
+    // sectionName: "",
     // sectionProblem: "",
-   problems: [
+    problems: [
       {
         name: "",
         link: "",
@@ -229,13 +224,13 @@ export const schedule = [
     // homework: "Homework 8",
     // due: "04/12 Mon",
   },
-  // Week 10
+  // Week 11
   {
-    date: "04/13 Tu",
+    date: "04/20 Tu",
     topic: "Dynamic Programming",
     // sectionName: "House Robber",
     // sectionProblem: "https://leetcode.com/problems/house-robber/",
-   problems: [
+    problems: [
       // {
       //   name: "Longest common subsequence",
       //   link: "https://leetcode.com/problems/longest-common-subsequence/",
@@ -260,16 +255,6 @@ export const schedule = [
     // homework: "Homework 9",
     // due: "04/19 Mon",
   },
-  // Week 11
-  {
-    date: "04/20 Tu",
-    topic: "Object Oriented Programming",
-    // sectionName: "", 
-    // sectionProblem: "",
-   problems: [],
-    // homework: "Homework 10",
-    // due: "04/26 Mon",
-  },
   // Week 12
   {
     date: "04/27 Tu",
@@ -282,3 +267,37 @@ export const schedule = [
     // due: "05/03 Mon",
   },
 ];
+
+// unused
+
+// {
+//   date: "03/09 Tu",
+//   topic: "Sliding WindOwO",
+//   extra: "Mock Interview I",
+//   // sectionName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+//   // sectionProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+//   problems: [
+//     // {
+//     //   name: "Longest substring without repeating characters",
+//     //   link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+//     // },
+//     // {
+//     //   name: "Maximum points you can obtain from cards",
+//     //   link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+//     // },
+//     // {
+//     //   name: "Maximum continuous ones",
+//     //   link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
+//     // },
+//     // {
+//     //   name: "Permutation in string",
+//     //   link: "https://leetcode.com/problems/permutation-in-string/",
+//     // },
+//     // {
+//     //   name: "Minimum window substring",
+//     //   link: "https://leetcode.com/problems/minimum-window-substring/",
+//     // },
+//   ],
+//   // homework: "Homework 5",
+//   // due: "03/15 Mon",
+// },
