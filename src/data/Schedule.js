@@ -19,8 +19,8 @@ export const schedule = [
     topic: "Basic Data Structures and Problem Solving",
     //slides: "",
     //video: "",
-    // sectionName: "Valid anagram",
-    // sectionProblem: "https://leetcode.com/problems/valid-anagram/",
+    sectionName: "Valid anagram",
+    sectionProblem: "https://leetcode.com/problems/valid-anagram/",
     problems: [
       // {
       //   name: "Two Sum",
