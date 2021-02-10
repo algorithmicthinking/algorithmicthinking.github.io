@@ -35,8 +35,8 @@ export const schedule = [
         link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
       },
       {
-        name: "Merge Intervals",
-        link: "https://leetcode.com/problems/merge-intervals/"
+        name: "Climbing Stairs",
+        link: "https://leetcode.com/problems/climbing-stairs/"
       },
       {
         name: "Product of array except self",
