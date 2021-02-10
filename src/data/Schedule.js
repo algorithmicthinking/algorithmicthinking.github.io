@@ -22,29 +22,29 @@ export const schedule = [
     sectionName: "Valid anagram",
     sectionProblem: "https://leetcode.com/problems/valid-anagram/",
     problems: [
-      // {
-      //   name: "Two Sum",
-      //   link: "https://leetcode.com/problems/two-sum/"
-      // },
-      // {
-      //   name: "Contains duplicate",
-      //   link: "https://leetcode.com/problems/contains-duplicate/"
-      // },
-      // {
-      //   name: "Best time to buy and sell stock",
-      //   link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
-      // },
-      // {
-      //   name: "Merge Intervals",
-      //   link: "https://leetcode.com/problems/merge-intervals/"
-      // },
-      // {
-      //   name: "Product of array except self",
-      //   link: "https://leetcode.com/problems/product-of-array-except-self/"
-      // },
+      {
+        name: "Two Sum",
+        link: "https://leetcode.com/problems/two-sum/"
+      },
+      {
+        name: "Contains duplicate",
+        link: "https://leetcode.com/problems/contains-duplicate/"
+      },
+      {
+        name: "Best time to buy and sell stock",
+        link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+      },
+      {
+        name: "Merge Intervals",
+        link: "https://leetcode.com/problems/merge-intervals/"
+      },
+      {
+        name: "Product of array except self",
+        link: "https://leetcode.com/problems/product-of-array-except-self/"
+      },
     ],
-    // homework: "Homework 1",
-    // due: "02/15 Mon",
+    homework: "Homework 1",
+    due: "02/15 Mon",
   },
   // Week 2
   {
