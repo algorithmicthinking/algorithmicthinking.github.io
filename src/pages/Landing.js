@@ -75,6 +75,20 @@ const Landing = () => {
                       >
                         {week.sectionName}
                       </a> : ""}
+
+                        <br />
+                        <br />
+
+                      {week.sectionInfo ?
+                        <>Resources:
+                        <br />
+                        <a
+                        target="_blank"
+                        rel="noreferrer"
+                        href={week.sectionInfo}
+                      >
+                        [Ahan’s Discussion Notes]
+                      </a></> : ""}
                     </td>
                     <td class="center">
                       {week.homework}

@@ -21,6 +21,7 @@ export const schedule = [
     //video: "",
     sectionName: "Valid anagram",
     sectionProblem: "https://leetcode.com/problems/valid-anagram/",
+    sectionInfo: "https://drive.google.com/file/d/1tj6Lx6M3X-zhUT7ENWdL37qfKPd-U0hE/view?usp=sharing",
     problems: [
       {
         name: "Two Sum",
@@ -43,7 +44,7 @@ export const schedule = [
         link: "https://leetcode.com/problems/product-of-array-except-self/"
       },
     ],
-    homework: "Homework 1",
+    homework: "Homework 2",
     due: "02/15 Mon",
   },
   // Week 2
@@ -74,7 +75,7 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
       // },
     ],
-    // homework: "Homework 2",
+    // homework: "Homework 3",
     // due: "02/22 Mon",
   },
   // Week 3
@@ -105,7 +106,7 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
       // },
     ],
-    // homework: "Homework 3",
+    // homework: "Homework 4",
     // due: "03/01 Mon",
   },
   // Week 4
@@ -136,7 +137,7 @@ export const schedule = [
       // link: "https://leetcode.com/problems/task-scheduler/",
       // },
     ],
-    // homework: "Homework 4",
+    // homework: "Homework 5",
     // due: "03/08 Mon",
   },
   // Week 5
