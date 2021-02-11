@@ -63,7 +63,7 @@ const Landing = () => {
                       <br />
                       {week.extra ? <>{week.extra} <br /> </>: ""}
                       {week.slides
-                        ? <><a href={week.slides}>[Slides]</a> <a href={week.video}>[Recording]</a></>
+                        ? <><a target="_blank" href={week.slides}>[Slides]</a> <a target="_blank" href={week.video}>[Recording]</a></>
                         : ""}
                     </td>
                     <td>
