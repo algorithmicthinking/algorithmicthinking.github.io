@@ -17,8 +17,8 @@ export const schedule = [
   {
     date: "02/09 Tu",
     topic: "Basic Data Structures and Problem Solving",
-    //slides: "",
-    //video: "",
+    slides: "https://docs.google.com/presentation/d/1hP6Q7hT0zgqmuDwDAtDVEQslfIrOci6XqsLjsZRrnMs/edit?usp=sharing",
+    video: "https://drive.google.com/file/d/1gGYYHDCI7mAPXDF1dPAffMicPaPvy6TH/view?usp=sharing",
     sectionName: "Valid anagram",
     sectionProblem: "https://leetcode.com/problems/valid-anagram/",
     sectionInfo: "https://drive.google.com/file/d/1tj6Lx6M3X-zhUT7ENWdL37qfKPd-U0hE/view?usp=sharing",
