@@ -26,12 +26,13 @@ const Landing = () => {
             </span>
           </h1>
           <h2>Spring 2021</h2>
-          <h2>Announcements</h2>
+          <h2>Week 1 Announcements</h2>
           <p>
-            Welcome to Introduction to Algorithmic Thinking @ Cal.
-            Make sure to join the <a target="_blank" href="https://piazza.com/berkeley/spring2021/cs198112">class piazza</a> and join the Gradescope (<a target="_blank" href="https://piazza.com/class/kj2f1d7eqg75ed?cid=52">@52</a>). 
+            Homework 2 is out! Check the Office Hours schedule and the Piazza threads for help.
+
             <br />
-            Homework 1 has been released: Make a leetcode account before next lecture, see <a target="_blank" href="https://piazza.com/class/kj2f1d7eqg75ed?cid=61">@61</a> on Piazza for more information.
+
+            We will host a Big O notation review session on Monday, 2/22 from 5-6pm. See Piazza post (<a target="_blank" href="https://piazza.com/class/kj2f1d7eqg75ed?cid=90">@90</a>) for the Zoom link.
           </p>
         </Col>
       </Row>
