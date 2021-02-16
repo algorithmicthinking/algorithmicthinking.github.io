@@ -51,8 +51,10 @@ export const schedule = [
   {
     date: "02/16 Tu",
     topic: "Linked Lists",
-    // sectionName: "Add Two Numbers",
-    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+    sectionName: "Add Two Numbers",
+    sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+    extraPracticeName: "Merge K Sorted Lists",
+    extraPracticeProblem: "https://leetcode.com/problems/merge-k-sorted-lists/",
     problems: [
       // {
       //   name: "Reverse a Linked List",

@@ -28,11 +28,18 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Week 1 Announcements</h2>
           <p>
-            Homework 2 is out! Check the Office Hours schedule and the Piazza threads for help.
-
+            Homework 2 is out! Check the Office Hours schedule and the Piazza
+            threads for help.
             <br />
-
-            We will host a Big O notation review session on Monday, 2/22 from 5-6pm. See Piazza post (<a target="_blank" href="https://piazza.com/class/kj2f1d7eqg75ed?cid=90">@90</a>) for the Zoom link.
+            We will host a Big O notation review session on Monday, 2/22 from
+            5-6pm. See Piazza post (
+            <a
+              target="_blank"
+              href="https://piazza.com/class/kj2f1d7eqg75ed?cid=90"
+            >
+              @90
+            </a>
+            ) for the Zoom link.
           </p>
         </Col>
       </Row>
@@ -62,34 +69,75 @@ const Landing = () => {
                     <td>
                       {week.topic}
                       <br />
-                      {week.extra ? <>{week.extra} <br /> </>: ""}
-                      {week.slides
-                        ? <><a target="_blank" href={week.slides}>[Slides]</a> <a target="_blank" href={week.video}>[Recording]</a></>
-                        : ""}
+                      {week.extra ? (
+                        <>
+                          {week.extra} <br />{" "}
+                        </>
+                      ) : (
+                        ""
+                      )}
+                      {week.slides ? (
+                        <>
+                          <a target="_blank" href={week.slides}>
+                            [Slides]
+                          </a>{" "}
+                          <a target="_blank" href={week.video}>
+                            [Recording]
+                          </a>
+                        </>
+                      ) : (
+                        ""
+                      )}
                     </td>
                     <td>
-                      {week.sectionName ?
+                      {week.sectionName ? (
                         <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={week.sectionProblem}
-                      >
-                        {week.sectionName}
-                      </a> : ""}
+                          target="_blank"
+                          rel="noreferrer"
+                          href={week.sectionProblem}
+                        >
+                          {week.sectionName}
+                        </a>
+                      ) : (
+                        ""
+                      )}
 
-                        <br />
-                        <br />
+                      <br />
+                      <br />
 
-                      {week.sectionInfo ?
-                        <>Resources:
-                        <br />
-                        <a
-                        target="_blank"
-                        rel="noreferrer"
-                        href={week.sectionInfo}
-                      >
-                        [Ahan’s Discussion Notes]
-                      </a></> : ""}
+                      {week.sectionInfo ? (
+                        <>
+                          Resources:
+                          <br />
+                          <a
+                            target="_blank"
+                            rel="noreferrer"
+                            href={week.sectionInfo}
+                          >
+                            [Ahan’s Discussion Notes]
+                          </a>
+                        </>
+                      ) : (
+                        ""
+                      )}
+
+                      {week.extraPracticeProblem ? (
+                        <>
+                          <br />
+                          Extra Practice:
+                          <br />
+                          <a
+                            target="_blank"
+                            rel="noreferrer"
+                            href={week.extraPracticeProblem}
+                          >
+                            {week.extraPracticeName}
+                          </a>
+                        </>
+                      ) : (
+                        ""
+                      )}
+
                     </td>
                     <td class="center">
                       {week.homework}
