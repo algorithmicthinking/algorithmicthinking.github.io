@@ -56,29 +56,29 @@ export const schedule = [
     extraPracticeName: "Merge K Sorted Lists",
     extraPracticeProblem: "https://leetcode.com/problems/merge-k-sorted-lists/",
     problems: [
-      // {
-      //   name: "Reverse a Linked List",
-      //   link: "https://leetcode.com/problems/reverse-linked-list/",
-      // },
-      // {
-      //   name: "Reverse Linked List ii",
-      //   link: "https://leetcode.com/problems/reverse-linked-list-ii/",
-      // },
-      // {
-      //   name: "Flatten a multilevel doubly linked list",
-      //   link: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
-      // },
-      // {
-      //   name: "Remove nth node from the end",
-      //   link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
-      // },
-      // {
-      //   name: "Merge 2 sorted lists",
-      //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
-      // },
+      {
+        name: "Reverse a Linked List",
+        link: "https://leetcode.com/problems/reverse-linked-list/",
+      },
+      {
+        name: "Reverse Linked List ii",
+        link: "https://leetcode.com/problems/reverse-linked-list-ii/",
+      },
+      {
+        name: "Flatten a multilevel doubly linked list",
+        link: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
+      },
+      {
+        name: "Remove nth node from the end",
+        link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      },
+      {
+        name: "Merge 2 sorted lists",
+        link: "https://leetcode.com/problems/merge-two-sorted-lists/",
+      },
     ],
-    // homework: "Homework 3",
-    // due: "02/22 Mon",
+    homework: "Homework 3",
+    due: "02/22 Mon",
   },
   // Week 3
   {
