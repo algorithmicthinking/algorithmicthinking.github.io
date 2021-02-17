@@ -51,8 +51,11 @@ export const schedule = [
   {
     date: "02/16 Tu",
     topic: "Linked Lists",
+    slides:
+      "https://drive.google.com/file/d/14R6qUDgQVJ8j-DQoZRc2WvQqvb6kIyhb/view?usp=sharing",
     sectionName: "Add Two Numbers",
     sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+    sectionInfo: "https://drive.google.com/file/d/15CcsKRmcWTTdJIlfMYRySVI-JBQn5b87/view?usp=sharing",
     extraPracticeName: "Merge K Sorted Lists",
     extraPracticeProblem: "https://leetcode.com/problems/merge-k-sorted-lists/",
     problems: [
