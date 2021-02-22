@@ -53,6 +53,7 @@ export const schedule = [
     topic: "Linked Lists",
     slides:
       "https://drive.google.com/file/d/14R6qUDgQVJ8j-DQoZRc2WvQqvb6kIyhb/view?usp=sharing",
+    video: "https://drive.google.com/file/d/1l_Yt-S4r7xo0P_pxly2iQgu-aN8E4zZQ/view?usp=sharing",
     sectionName: "Add Two Numbers",
     sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     sectionInfo: "https://drive.google.com/file/d/15CcsKRmcWTTdJIlfMYRySVI-JBQn5b87/view?usp=sharing",
