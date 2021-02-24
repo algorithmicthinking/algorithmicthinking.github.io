@@ -88,32 +88,34 @@ export const schedule = [
   {
     date: "02/23 Tu",
     topic: "Binary Search Problems",
-    // sectionName: "Valid Palindrome",
-    // sectionProblem: "https://leetcode.com/problems/valid-palindrome/",
+    sectionName: "Search 2D Matrix",
+    sectionProblem: "https://leetcode.com/problems/search-a-2d-matrix/",
+    extraPracticeName: "Kth Smallest Element in a Sorted Matrix",
+    extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
-      // {
-      //   name: "Two Sum ii",
-      //   link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-      // },
-      // {
-      //   name: "Three Sum",
-      //   link: "https://leetcode.com/problems/3sum/ ",
-      // },
-      // {
-      //   name: "Container with most water",
-      //   link: "https://leetcode.com/problems/container-with-most-water/",
-      // },
-      // {
-      //   name: "Squares of a Sorted Array",
-      //   link: "https://leetcode.com/problems/squares-of-a-sorted-array/",
-      // },
-      // {
-      //   name: "First and last position in a sorted",
-      //   link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-      // },
+      {
+        name: "Two Sum ii",
+        link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+      },
+      {
+        name: "Three Sum",
+        link: "https://leetcode.com/problems/3sum/ ",
+      },
+      {
+        name: "Container with most water",
+        link: "https://leetcode.com/problems/container-with-most-water/",
+      },
+      {
+        name: "Squares of a Sorted Array",
+        link: "https://leetcode.com/problems/squares-of-a-sorted-array/",
+      },
+      {
+        name: "First and last position in a sorted",
+        link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      },
     ],
-    // homework: "Homework 4",
-    // due: "03/01 Mon",
+    homework: "Homework 4",
+    due: "03/01 Mon",
   },
   // Week 4
   {
