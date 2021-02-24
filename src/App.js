@@ -4,7 +4,6 @@ import "./css/style.css";
 import Navbar from "./components/Navbar";
 import Landing from "./pages/Landing";
 import Team from "./pages/Team";
-import Resources from "./pages/Resources";
 import Syllabus from "./pages/Syllabus";
 import Footer from "./components/Footer";
 
@@ -15,7 +14,6 @@ function App() {
       <div className="container">
         <Landing />
         <Team />
-        <Resources />
         <Syllabus />
         <Footer />
       </div>

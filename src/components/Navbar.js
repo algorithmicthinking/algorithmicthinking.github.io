@@ -63,7 +63,7 @@ const SiteNavbar = () => {
             <p>Discord</p>
           </Nav.Link>
           <Nav.Link
-            href="#resources"
+            href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62"
           >
             <p>Resources</p>
           </Nav.Link>
