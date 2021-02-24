@@ -88,35 +88,38 @@ export const schedule = [
   {
     date: "02/23 Tu",
     topic: "Binary Search Problems",
+    slides: "https://docs.google.com/presentation/d/1sERfk11BGveocEtbrDBMHdiiYWmzcCLu4talOa4yMgw/edit?usp=sharing",
+    video: "#",
     sectionName: "Search 2D Matrix",
     sectionProblem: "https://leetcode.com/problems/search-a-2d-matrix/",
     extraPracticeName: "Kth Smallest Element in a Sorted Matrix",
     extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
       {
-        name: "Two Sum ii",
-        link: "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
-      },
-      {
-        name: "Three Sum",
-        link: "https://leetcode.com/problems/3sum/ ",
-      },
-      {
-        name: "Container with most water",
-        link: "https://leetcode.com/problems/container-with-most-water/",
-      },
-      {
-        name: "Squares of a Sorted Array",
-        link: "https://leetcode.com/problems/squares-of-a-sorted-array/",
-      },
-      {
-        name: "First and last position in a sorted",
+      name: "First and last position in a sorted",
         link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      },
+      {
+        name: "Search Insert Position",
+        link: "https://leetcode.com/problems/search-insert-position/",
+      },
+      {
+        name: "Search in a rotated sorted array",
+        link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      },
+      {
+        name: "Random pick with weight",
+        link: "https://leetcode.com/problems/random-pick-with-weight/",
+      },
+      {
+        name: "Find the smallest divisor given a threshold",
+        link: "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
       },
     ],
     homework: "Homework 4",
     due: "03/01 Mon",
   },
+
   // Week 4
   {
     date: "03/02 Tu",
