@@ -89,9 +89,10 @@ export const schedule = [
     date: "02/23 Tu",
     topic: "Binary Search Problems",
     slides: "https://docs.google.com/presentation/d/1sERfk11BGveocEtbrDBMHdiiYWmzcCLu4talOa4yMgw/edit?usp=sharing",
-    video: "#",
+    video: "https://drive.google.com/file/d/1OUpHH2q1DL96tEE1bwyz7R54148C4uvJ/view?usp=sharing",
     sectionName: "Search 2D Matrix",
     sectionProblem: "https://leetcode.com/problems/search-a-2d-matrix/",
+    sectionInfo: "https://drive.google.com/file/d/1bJyD0rroXIbxU1c05xswFMiJ3zj8-iqi/view?usp=sharing",
     extraPracticeName: "Kth Smallest Element in a Sorted Matrix",
     extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
