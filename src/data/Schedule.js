@@ -125,8 +125,8 @@ export const schedule = [
   {
     date: "03/02 Tu",
     topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
-    // sectionName: "kth largest element",
-    // sectionProblem: "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+    sectionName: "Decode string",
+    sectionProblem: "https://leetcode.com/problems/decode-string/",
     problems: [
       // {
       // name: "Valid parentheses",
