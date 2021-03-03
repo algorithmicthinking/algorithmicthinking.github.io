@@ -128,29 +128,29 @@ export const schedule = [
     sectionName: "Decode string",
     sectionProblem: "https://leetcode.com/problems/decode-string/",
     problems: [
-      // {
-      // name: "Valid parentheses",
-      //   link: "https://leetcode.com/problems/valid-parentheses/",
-      // },
-      // {
-      //   name: "Minimum to remove to make valid parenthesis",
-      //   link: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
-      // },
-      // {
-      //   name: "K closest points to origin",
-      //   link: "https://leetcode.com/problems/k-closest-points-to-origin/",
-      // },
-      // {
-      //   name: "LRU Cache",
-      //   link: "https://leetcode.com/problems/lru-cache/",
-      // },
-      // {
-      // name: "Task Scheduler",
-      // link: "https://leetcode.com/problems/task-scheduler/",
-      // },
+      {
+      name: "Valid parentheses",
+        link: "https://leetcode.com/problems/valid-parentheses/",
+      },
+      {
+        name: "Minimum to remove to make valid parenthesis",
+        link: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
+      },
+      {
+        name: "K closest points to origin",
+        link: "https://leetcode.com/problems/k-closest-points-to-origin/",
+      },
+      {
+        name: "LRU Cache",
+        link: "https://leetcode.com/problems/lru-cache/",
+      },
+      {
+      name: "Task Scheduler",
+      link: "https://leetcode.com/problems/task-scheduler/",
+      },
     ],
-    // homework: "Homework 5",
-    // due: "03/08 Mon",
+    homework: "Homework 5",
+    due: "03/08 Mon",
   },
   // Week 5
   {
