@@ -125,19 +125,22 @@ export const schedule = [
   {
     date: "03/02 Tu",
     topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
+    slides: "https://drive.google.com/file/d/14ftsvFSxhOVJtO__Teu7089h_60AI5a-/view?usp=sharing",
+    video: "https://drive.google.com/file/d/1t09nztm0nwN5rhWPWCDNdK-bo8_2FYA8/view?usp=sharing",
     sectionName: "Decode string",
     sectionProblem: "https://leetcode.com/problems/decode-string/",
+    // sectionInfo: "",
     problems: [
       {
-      name: "Valid parentheses",
+      name: "Valid Parentheses",
         link: "https://leetcode.com/problems/valid-parentheses/",
       },
       {
-        name: "Minimum to remove to make valid parenthesis",
+        name: "Minimum to Remove to Make Valid",
         link: "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/",
       },
       {
-        name: "K closest points to origin",
+        name: "K Closest Points to Origin",
         link: "https://leetcode.com/problems/k-closest-points-to-origin/",
       },
       {
