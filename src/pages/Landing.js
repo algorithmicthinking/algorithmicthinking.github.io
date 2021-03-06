@@ -26,20 +26,13 @@ const Landing = () => {
             </span>
           </h1>
           <h2>Spring 2021</h2>
-          <h2>Week 1 Announcements</h2>
+          <h2>Announcements</h2>
           <p>
-            Homework 2 is out! Check the Office Hours schedule and the Piazza
-            threads for help.
-            <br />
-            We will host a Big O notation review session on Monday, 2/22 from
-            5-6pm. See Piazza post (
-            <a
-              target="_blank"
-              href="https://piazza.com/class/kj2f1d7eqg75ed?cid=90"
-            >
-              @90
-            </a>
-            ) for the Zoom link.
+            Harris's recruiting workshop and Ahan's Big Oh review have been recorded, see
+            (<a target="_blank"
+                  href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62">
+                @62
+            </a>) for the links. Stay tuned for future workshops!
           </p>
         </Col>
       </Row>
