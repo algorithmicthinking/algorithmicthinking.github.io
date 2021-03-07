@@ -28,11 +28,11 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Announcements</h2>
           <p>
-            Harris's recruiting workshop and Ahan's Big Oh review have been recorded, see
+            Homework 5 is due on Monday 03/08, see
             (<a target="_blank"
                   href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62">
                 @62
-            </a>) for the links. Stay tuned for future workshops!
+            </a>) for resources to help you get started with recruiting!
           </p>
         </Col>
       </Row>
