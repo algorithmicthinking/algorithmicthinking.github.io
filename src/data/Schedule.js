@@ -97,7 +97,7 @@ export const schedule = [
     extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
       {
-      name: "First and last position in a sorted",
+        name: "First and last position in a sorted",
         link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
       },
       {
@@ -160,31 +160,33 @@ export const schedule = [
     date: "03/09 Tu",
     topic: "Object Oriented Programming",
     sectionName: "Design Browser History",
+    slides: "https://docs.google.com/presentation/d/14jXtINZvp6KJp1d7fy6dM8WXBWDgMUDom9OiKThFvp0/edit?usp=sharing",
+    video: "",
     sectionProblem: "https://leetcode.com/problems/design-browser-history/",
     problems: [
-      // {
-      //   name: "Min Stack",
-      //   link: "https://leetcode.com/problems/min-stack/",
-      // },
-      // {
-      //   name: "Design Underground Subway System",
-      //   link: "https://leetcode.com/problems/design-underground-system/",
-      // },
-      // {
-      //   name: "Design Twitter",
-      //   link: "https://leetcode.com/problems/design-twitter/",
-      // },
-      // {
-      //   name: "Design Hashset",
-      //   link: "https://leetcode.com/problems/design-hashset/",
-      // },
-      // {
-      //   name: "Encode and Decode TinyURL",
-      //   link: "https://leetcode.com/problems/encode-and-decode-tinyurl/",
-      // },
+      {
+        name: "Min Stack",
+        link: "https://leetcode.com/problems/min-stack/",
+      },
+      {
+        name: "Design Underground Subway System",
+        link: "https://leetcode.com/problems/design-underground-system/",
+      },
+      {
+        name: "Design Twitter",
+        link: "https://leetcode.com/problems/design-twitter/",
+      },
+      {
+        name: "Design Hashset",
+        link: "https://leetcode.com/problems/design-hashset/",
+      },
+      {
+        name: "Encode and Decode TinyURL",
+        link: "https://leetcode.com/problems/encode-and-decode-tinyurl/",
+      },
     ],
-    // homework: "Homework 6",
-    // due: "03/15 Mon",
+    homework: "Homework 6",
+    due: "03/15 Mon",
     
   },
   // Week 6
