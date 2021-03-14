@@ -97,7 +97,7 @@ export const schedule = [
     extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
       {
-      name: "First and last position in a sorted",
+        name: "First and last position in a sorted",
         link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
       },
       {
@@ -160,6 +160,8 @@ export const schedule = [
     date: "03/09 Tu",
     topic: "Object Oriented Programming",
     sectionName: "Design Browser History",
+    slides: "https://docs.google.com/presentation/d/14jXtINZvp6KJp1d7fy6dM8WXBWDgMUDom9OiKThFvp0/edit?usp=sharing",
+    video: "",
     sectionProblem: "https://leetcode.com/problems/design-browser-history/",
     problems: [
       {
