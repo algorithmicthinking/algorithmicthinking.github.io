@@ -23,7 +23,7 @@ const SiteNavbar = () => {
   return (
     <div class="container">
       <p class="text-center">
-        <span class="text-muted">Website template taken with permission from the <a href="https://www.eecs16b.org/">EECS16b</a> website.</span>
+        <span class="text-muted">Website template taken with permission from the <a href="https://www.eecs16b.org/">EECS 16B</a> website.</span>
       </p>
     </div>
   );
