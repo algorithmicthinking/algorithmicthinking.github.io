@@ -162,29 +162,29 @@ export const schedule = [
     sectionName: "Design Browser History",
     sectionProblem: "https://leetcode.com/problems/design-browser-history/",
     problems: [
-      // {
-      //   name: "Min Stack",
-      //   link: "https://leetcode.com/problems/min-stack/",
-      // },
-      // {
-      //   name: "Design Underground Subway System",
-      //   link: "https://leetcode.com/problems/design-underground-system/",
-      // },
-      // {
-      //   name: "Design Twitter",
-      //   link: "https://leetcode.com/problems/design-twitter/",
-      // },
-      // {
-      //   name: "Design Hashset",
-      //   link: "https://leetcode.com/problems/design-hashset/",
-      // },
-      // {
-      //   name: "Encode and Decode TinyURL",
-      //   link: "https://leetcode.com/problems/encode-and-decode-tinyurl/",
-      // },
+      {
+        name: "Min Stack",
+        link: "https://leetcode.com/problems/min-stack/",
+      },
+      {
+        name: "Design Underground Subway System",
+        link: "https://leetcode.com/problems/design-underground-system/",
+      },
+      {
+        name: "Design Twitter",
+        link: "https://leetcode.com/problems/design-twitter/",
+      },
+      {
+        name: "Design Hashset",
+        link: "https://leetcode.com/problems/design-hashset/",
+      },
+      {
+        name: "Encode and Decode TinyURL",
+        link: "https://leetcode.com/problems/encode-and-decode-tinyurl/",
+      },
     ],
-    // homework: "Homework 6",
-    // due: "03/15 Mon",
+    homework: "Homework 6",
+    due: "03/15 Mon",
     
   },
   // Week 6
