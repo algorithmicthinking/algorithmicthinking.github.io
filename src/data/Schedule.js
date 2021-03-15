@@ -161,7 +161,7 @@ export const schedule = [
     topic: "Object Oriented Programming",
     sectionName: "Design Browser History",
     slides: "https://docs.google.com/presentation/d/14jXtINZvp6KJp1d7fy6dM8WXBWDgMUDom9OiKThFvp0/edit?usp=sharing",
-    video: "",
+    video: "https://drive.google.com/file/d/1HXKAUA5W0MmrBJ6KsNGLHGK8vKR242KX/view?usp=sharing",
     sectionProblem: "https://leetcode.com/problems/design-browser-history/",
     problems: [
       {
