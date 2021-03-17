@@ -194,32 +194,34 @@ export const schedule = [
     date: "03/16 Tu",
     topic: "Two Pointers/Sliding Window",
     extra: "Mock Interview I",
-    // sectionName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
-    // sectionProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
+    sectionName: "Swapping Nodes in a Linked List",
+    sectionProblem: "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
+    extraPracticeName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    extraPracticeProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
     problems: [
-      // {
-      //   name: "Longest Substring without Repeating Characters",
-      //   link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-      // },
-      // {
-      //   name: "Maximum Points Obtain from Cards",
-      //   link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-      // },
-      // {
-      //   name: "Maximum Continuous Ones",
-      //   link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
-      // },
-      // {
-      //   name: "Permutation in String",
-      //   link: "https://leetcode.com/problems/permutation-in-string/",
-      // },
-      // {
-      //   name: "Minimum Window Substring",
-      //   link: "https://leetcode.com/problems/minimum-window-substring/",
-      // },
+      {
+        name: "Longest Substring without Repeating Characters",
+        link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      },
+      {
+        name: "Maximum Points Obtain from Cards",
+        link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      },
+      {
+        name: "Maximum Continuous Ones",
+        link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      },
+      {
+        name: "Permutation in String",
+        link: "https://leetcode.com/problems/permutation-in-string/",
+      },
+      {
+        name: "Minimum Window Substring",
+        link: "https://leetcode.com/problems/minimum-window-substring/",
+      },
     ],
-    // homework: "Homework 7",
-    // due: "03/29 Mon",
+    homework: "Homework 7",
+    due: "03/29 Mon",
   },
   // Week 7
   {
