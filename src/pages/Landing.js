@@ -132,6 +132,28 @@ const Landing = () => {
                         ""
                       )}
 
+                     {(week.interviewHelp && week.interviewHelp.length) ? (
+                        <>
+                          Mock Interview Guides:
+                          <br />
+                        </>
+                      ) : ""}
+
+                      {(week.interviewHelp && week.interviewHelp.length) ?
+                        week.interviewHelp.map((help, index) => (
+                            <>
+                              <a
+                                target="_blank"
+                                rel="noreferrer"
+                                href={help.link}
+                              >
+                                {help.name}
+                              </a>
+                              {week.interviewHelp[index + 1] && <br />}
+                            </>
+                          ))
+                        : ""}
+
                     </td>
                     <td class="center">
                       {week.homework}
