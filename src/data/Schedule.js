@@ -288,21 +288,6 @@ export const schedule = [
   // Week 10
   {
     date: "04/13 Tu",
-    topic: "Greedy",
-    // sectionName: "",
-    // sectionProblem: "",
-    problems: [
-      {
-        name: "",
-        link: "",
-      },
-    ],
-    // homework: "Homework 8",
-    // due: "04/12 Mon",
-  },
-  // Week 11
-  {
-    date: "04/20 Tu",
     topic: "Dynamic Programming",
     // sectionName: "House Robber",
     // sectionProblem: "https://leetcode.com/problems/house-robber/",
@@ -327,6 +312,21 @@ export const schedule = [
       //   name: "Wildcard matching",
       //   link: "https://leetcode.com/problems/wildcard-matching/",
       // },
+    ],
+    // homework: "Homework 8",
+    // due: "04/12 Mon",
+  },
+  // Week 11
+  {
+    date: "04/20 Tu",
+    topic: "Greedy",
+    // sectionName: "",
+    // sectionProblem: "",
+    problems: [
+      {
+        name: "",
+        link: "",
+      },
     ],
     // homework: "Homework 9",
     // due: "04/19 Mon",
