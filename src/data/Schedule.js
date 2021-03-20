@@ -194,6 +194,8 @@ export const schedule = [
     date: "03/16 Tu",
     topic: "Two Pointers/Sliding Window",
     extra: "Mock Interview I",
+    slides: "https://docs.google.com/presentation/d/1BcAKpGMKZWAqwx4uo1N7FUbtsSOPNZ2RAnKzCrL3Vp0",
+    //video: "",
     sectionName: "Swapping Nodes in a Linked List",
     sectionProblem: "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
     
@@ -234,6 +236,7 @@ export const schedule = [
             link: "https://leetcode.com/problems/minimum-window-substring/",
         },
     ],
+    
     homework: "Homework 7",
     due: "03/29 Mon",
   },

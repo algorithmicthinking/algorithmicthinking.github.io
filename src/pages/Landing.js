@@ -28,11 +28,13 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Announcements</h2>
           <p>
-            Homework 5 is due on Monday 03/08, see
+            Mock Interview 1 is out and due Tuesday, March 30th at 5pm. Look at Week 6 on the schedule to see some guides and an example mock interview.
+            <br/>
+            See
             (<a target="_blank"
                   href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62">
                 @62
-            </a>) for resources to help you get started with recruiting!
+            </a>) for recruiting and algorithm resources!
           </p>
         </Col>
       </Row>
@@ -73,7 +75,14 @@ const Landing = () => {
                         <>
                           <a target="_blank" href={week.slides}>
                             [Slides]
-                          </a>{" "}
+                          </a>
+                        </>
+                      ) : (
+                        ""
+                      )}
+                      {(week.video && week.slides) ? " " : ""}
+                      {week.video ? (
+                        <>
                           <a target="_blank" href={week.video}>
                             [Recording]
                           </a>
