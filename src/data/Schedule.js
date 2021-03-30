@@ -252,7 +252,7 @@ export const schedule = [
         link: "",
       },
     ],
-    // homework: "No Homework! Enjoy your break.",
+    homework: "No Homework! Enjoy your break.",
     // due: "",
   },
   // Week 8
@@ -261,14 +261,31 @@ export const schedule = [
     topic: "Trees",
     sectionName: "Symmetric Tree",
     sectionProblem: "https://leetcode.com/problems/symmetric-tree",
+    slides: "https://docs.google.com/presentation/d/1BcAKpGMKZWAqwx4uo1N7FUbtsSOPNZ2RAnKzCrL3Vp0",
     problems: [
-      // {
-      //   name: "",
-      //   link: "",
-      // },
+      {
+          name: "Same Tree",
+          link: "https://leetcode.com/problems/same-tree/",
+      },
+      {
+          name: "Kth Smallest Element in a BST",
+          link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      },
+      {
+          name: "Maximum Depth of a Binary Tree",
+          link: "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      },
+      {
+          name: "Diameter of a Binary Tree",
+          link: "https://leetcode.com/problems/diameter-of-binary-tree/",
+      },
+      {
+          name: "Right Side Binary Tree",
+          link: "https://leetcode.com/problems/binary-tree-right-side-view/",
+      },
     ],
-    homework: "Homework 6 (TBD)",
-    due: "03/29 Mon",
+    homework: "Homework 8",
+    due: "04/05 Mon",
   },
   // Week 9
   {
