@@ -261,7 +261,7 @@ export const schedule = [
     topic: "Trees",
     sectionName: "Symmetric Tree",
     sectionProblem: "https://leetcode.com/problems/symmetric-tree",
-    slides: "https://docs.google.com/presentation/d/1BcAKpGMKZWAqwx4uo1N7FUbtsSOPNZ2RAnKzCrL3Vp0",
+    slides: "https://docs.google.com/presentation/d/1_P8kT0YJf09k453nbZsxFQtyNSq4yPac8Wbxz4Pp_XA/edit?usp=sharing",
     problems: [
       {
           name: "Same Tree",
