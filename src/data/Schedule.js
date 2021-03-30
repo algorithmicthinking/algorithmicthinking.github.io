@@ -259,16 +259,16 @@ export const schedule = [
   {
     date: "03/30 Tu",
     topic: "Trees",
-    // sectionName: "",
-    // sectionProblem: "",
+    sectionName: "Symmetric Tree",
+    sectionProblem: "https://leetcode.com/problems/symmetric-tree",
     problems: [
       // {
       //   name: "",
       //   link: "",
       // },
     ],
-    // homework: "Homework 6",
-    // due: "03/29 Mon",
+    homework: "Homework 6 (TBD)",
+    due: "03/29 Mon",
   },
   // Week 9
   {
