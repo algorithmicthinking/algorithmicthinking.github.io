@@ -259,6 +259,7 @@ export const schedule = [
   {
     date: "03/30 Tu",
     topic: "Trees",
+    video: "https://drive.google.com/file/d/1t9usi7xu-Rj0nCgreyWkKr_aKNKJnPM6/view?usp=sharing",
     sectionName: "Symmetric Tree",
     sectionProblem: "https://leetcode.com/problems/symmetric-tree",
     slides: "https://docs.google.com/presentation/d/1_P8kT0YJf09k453nbZsxFQtyNSq4yPac8Wbxz4Pp_XA/edit?usp=sharing",
