@@ -296,10 +296,6 @@ export const schedule = [
     sectionProblem: "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
     problems: [
       {
-        name: "Unique Paths",
-        link: "https://leetcode.com/problems/unique-paths/",
-      },
-      {
         name: "Course Schedule",
         link: "https://leetcode.com/problems/course-schedule/",
       },
