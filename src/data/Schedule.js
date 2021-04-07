@@ -316,7 +316,7 @@ export const schedule = [
         link: "https://leetcode.com/problems/rotting-oranges/",
       },
     ],
-    homework: "Homework 7",
+    homework: "Homework 9",
     due: "04/12 Mon",
   },
   // Week 10
