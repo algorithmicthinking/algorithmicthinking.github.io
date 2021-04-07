@@ -294,6 +294,7 @@ export const schedule = [
     topic: "Graphs",
     sectionName: "Shortest Path in Binary Matrix",
     sectionProblem: "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    slides: "https://docs.google.com/presentation/d/1udRh1yzC4X5C_ukpvIhRUbLlNb3DfpZa5518nbAPUus/edit?usp=sharing",
     problems: [
       {
         name: "Course Schedule",
