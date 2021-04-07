@@ -286,22 +286,38 @@ export const schedule = [
       },
     ],
     homework: "Homework 8",
-    due: "04/05 Mon",
+    due: "04/06 Tuesday",
   },
   // Week 9
   {
     date: "04/06 Tu",
     topic: "Graphs",
-    // sectionName: "",
-    // sectionProblem: "",
+    sectionName: "Shortest Path in Binary Matrix",
+    sectionProblem: "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
     problems: [
       {
-        name: "",
-        link: "",
+        name: "Unique Paths",
+        link: "https://leetcode.com/problems/unique-paths/",
+      },
+      {
+        name: "Course Schedule",
+        link: "https://leetcode.com/problems/course-schedule/",
+      },
+      {
+        name: "Word Search",
+        link: "https://leetcode.com/problems/word-search/",
+      },
+      {
+        name: "Number of Islands",
+        link: "https://leetcode.com/problems/number-of-islands/",
+      },
+      {
+        name: "Rotting Oranges",
+        link: "https://leetcode.com/problems/rotting-oranges/",
       },
     ],
-    // homework: "Homework 7",
-    // due: "04/05 Mon",
+    homework: "Homework 7",
+    due: "04/12 Mon",
   },
   // Week 10
   {
