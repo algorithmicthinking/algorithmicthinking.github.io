@@ -28,13 +28,8 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Announcements</h2>
           <p>
-            Mock Interview 1 is out and due Tuesday, April 6th. 
-            (<a target="_blank"
-                  href="https://piazza.com/class/kj2f1d7eqg75ed?cid=172">
-                @172
-            </a>) has more info.
+            Homework 9 is out and is due Monday, April 12th.
             <br/>
-            Homework 8 is out and is due Monday, April 5th.
             <br/>
             See
             (<a target="_blank"
