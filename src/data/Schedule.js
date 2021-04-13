@@ -202,11 +202,13 @@ export const schedule = [
     interviewHelp: [
         {
             name: "Problem 1",
-            link: "https://docs.google.com/document/d/15tl8bdDm9IdipFOdXIsy7puLlo3VcoyCxN3wc-6tsIE/edit#"
+            link: "https://docs.google.com/document/d/15tl8bdDm9IdipFOdXIsy7puLlo3VcoyCxN3wc-6tsIE/edit#",
+            solution: "https://www.youtube.com/watch?v=KVMffdODBJI"
         },
         {
             name: "Problem 2",
-            link: "https://docs.google.com/document/d/1oHgvt76_sAM6z5khjQyN7ek-iDupWHRytumF3jIcWbQ/edit?usp=sharing"
+            link: "https://docs.google.com/document/d/1oHgvt76_sAM6z5khjQyN7ek-iDupWHRytumF3jIcWbQ/edit?usp=sharing",
+            solution: "https://www.youtube.com/watch?v=pObhgBa-lT4"
         },
         {
             name: "Example Mock Interview",

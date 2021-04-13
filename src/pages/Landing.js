@@ -28,7 +28,13 @@ const Landing = () => {
           <h2>Spring 2021</h2>
           <h2>Announcements</h2>
           <p>
-            Homework 9 is out and is due Monday, April 12th.
+              <a target="_blank" href="https://upe.berkeley.edu/">UPE</a> made wonderful walkthrough videos for the mock interview problems! You can view them here:
+              <br/>
+              <a target="_blank" href="https://www.youtube.com/watch?v=KVMffdODBJI">
+                [Maximum Consecutive Ones]
+              </a> <a target="_blank" href="https://www.youtube.com/watch?v=pObhgBa-lT4">
+                [Target Sum Walkthrough]
+              </a>
             <br/>
             <br/>
             See
@@ -159,6 +165,12 @@ const Landing = () => {
                               >
                                 {help.name}
                               </a>
+                                {
+                                  help.solution ? 
+                                    <>
+                                      , <a href={help.solution}>Solution</a>
+                                    </> : ""
+                                }
                               {week.interviewHelp[index + 1] && <br />}
                             </>
                           ))
