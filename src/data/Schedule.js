@@ -323,32 +323,34 @@ export const schedule = [
   {
     date: "04/13 Tu",
     topic: "Dynamic Programming",
-    // sectionName: "House Robber",
-    // sectionProblem: "https://leetcode.com/problems/house-robber/",
+    sectionName: "House Robber",
+    sectionProblem: "https://leetcode.com/problems/house-robber/",
+    extraPracticeName: "Maximal Square",
+    extraPracticeProblem: "https://leetcode.com/problems/maximal-square/",
     problems: [
-      // {
-      //   name: "Longest common subsequence",
-      //   link: "https://leetcode.com/problems/longest-common-subsequence/",
-      // },
-      // {
-      //   name: "Decode ways",
-      //   link: "https://leetcode.com/problems/decode-ways/",
-      // },
-      // {
-      //   name: "Maximum subarray sum",
-      //   link: "https://leetcode.com/problems/maximum-subarray/",
-      // },
-      // {
-      //   name: "Longest Palindromic Substring",
-      //   link: "https://leetcode.com/problems/longest-palindromic-substring/",
-      // },
-      // {
-      //   name: "Wildcard matching",
-      //   link: "https://leetcode.com/problems/wildcard-matching/",
-      // },
+      {
+        name: "Longest common subsequence",
+        link: "https://leetcode.com/problems/longest-common-subsequence/",
+      },
+      {
+        name: "Decode ways",
+        link: "https://leetcode.com/problems/decode-ways/",
+      },
+      {
+        name: "Maximum subarray sum",
+        link: "https://leetcode.com/problems/maximum-subarray/",
+      },
+      {
+        name: "Longest Palindromic Substring",
+        link: "https://leetcode.com/problems/longest-palindromic-substring/",
+      },
+      {
+        name: "Wildcard matching",
+        link: "https://leetcode.com/problems/wildcard-matching/",
+      },
     ],
-    // homework: "Homework 8",
-    // due: "04/12 Mon",
+    homework: "Homework 10",
+    due: "04/19 Mon",
   },
   // Week 11
   {
@@ -362,8 +364,8 @@ export const schedule = [
         link: "",
       },
     ],
-    // homework: "Homework 9",
-    // due: "04/19 Mon",
+    // homework: "Homework 11",
+    // due: "04/26 Mon",
   },
   // Week 12
   {
