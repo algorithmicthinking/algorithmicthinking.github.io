@@ -324,6 +324,7 @@ export const schedule = [
     date: "04/13 Tu",
     topic: "Dynamic Programming",
     sectionName: "House Robber",
+    slides: "https://docs.google.com/presentation/d/10Uj8iKfvrzJU_XIunrJj987aH1GJz2fk1EE0eM7twI4/edit?usp=sharing",
     sectionProblem: "https://leetcode.com/problems/house-robber/",
     extraPracticeName: "Maximal Square",
     extraPracticeProblem: "https://leetcode.com/problems/maximal-square/",
