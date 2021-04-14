@@ -330,10 +330,6 @@ export const schedule = [
     extraPracticeProblem: "https://leetcode.com/problems/maximal-square/",
     problems: [
       {
-        name: "Longest common subsequence",
-        link: "https://leetcode.com/problems/longest-common-subsequence/",
-      },
-      {
         name: "Decode ways",
         link: "https://leetcode.com/problems/decode-ways/",
       },
@@ -346,8 +342,12 @@ export const schedule = [
         link: "https://leetcode.com/problems/longest-palindromic-substring/",
       },
       {
-        name: "Wildcard matching",
-        link: "https://leetcode.com/problems/wildcard-matching/",
+        name: "Partition Equal Subset Sum",
+        link: "https://leetcode.com/problems/partition-equal-subset-sum/",
+      },
+      {
+        name: "Longest common subsequence",
+        link: "https://leetcode.com/problems/longest-common-subsequence/",
       },
     ],
     homework: "Homework 10",
