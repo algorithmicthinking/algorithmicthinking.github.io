@@ -328,6 +328,7 @@ export const schedule = [
     sectionProblem: "https://leetcode.com/problems/house-robber/",
     extraPracticeName: "Maximal Square",
     extraPracticeProblem: "https://leetcode.com/problems/maximal-square/",
+    video: "https://drive.google.com/file/d/1Ssjq4evYSJRFm8iFnc7E9IU2cJIn6qI5/view?usp=sharing",
     problems: [
       {
         name: "Decode ways",
