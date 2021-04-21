@@ -358,16 +358,25 @@ export const schedule = [
   {
     date: "04/20 Tu",
     topic: "Greedy",
-    // sectionName: "",
-    // sectionProblem: "",
+    slides: "https://docs.google.com/presentation/d/1nWLHCvRX7WVPfGzqb1LyrCRbTn7zHUocFYcITgc4nMc/edit?usp=sharing",
+    sectionName: "Partition Labels",
+    sectionProblem: "https://leetcode.com/problems/partition-labels/",
     problems: [
       {
-        name: "",
-        link: "",
+        name: "Gas Station",
+        link: "https://leetcode.com/problems/gas-station/",
+      },
+      {
+        name: "Task Scheduler",
+        link: "https://leetcode.com/problems/task-scheduler/",
+      },
+      {
+        name: "Boats to Save People",
+        link: "https://leetcode.com/problems/boats-to-save-people/",
       },
     ],
-    // homework: "Homework 11",
-    // due: "04/26 Mon",
+    homework: "Homework 11",
+    due: "04/26 Mon",
   },
   // Week 12
   {
