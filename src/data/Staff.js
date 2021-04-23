@@ -71,7 +71,7 @@ export const teachingAssistants = [
     name: "Ahan Sabharwal",
     email: "ahan.sabharwal",
     bio:
-      "Hi everyone! I’m a junior studying Data Science and CS. I’m interested in systems, ML infra, and algorithms. Super excited to TA the course and help everyone with interview prep!",
+      "Hi everyone! I’m a junior studying Data Science and CS. In my free time, I really enjoy watching Formula 1 so feel free to come to office hours or message me on Discord to chat about it! Super excited to TA the course and help everyone with interview prep!",
     image: Ahan,
     focus_area: focus_areas.disc,
   },
