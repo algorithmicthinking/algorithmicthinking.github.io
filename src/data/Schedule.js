@@ -361,6 +361,7 @@ export const schedule = [
     slides: "https://docs.google.com/presentation/d/1nWLHCvRX7WVPfGzqb1LyrCRbTn7zHUocFYcITgc4nMc/edit?usp=sharing",
     sectionName: "Partition Labels",
     sectionProblem: "https://leetcode.com/problems/partition-labels/",
+    video: "https://drive.google.com/file/d/1uqAnsUxiis_qTFAlAz7snbdcJUCpxuqD/view?usp=sharing",
     problems: [
       {
         name: "Gas Station",
