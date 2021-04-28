@@ -385,44 +385,6 @@ export const schedule = [
     topic: "Guest Speaker",
     extra: "Mock Interview II",
     video: "https://drive.google.com/file/d/14EBywAYYymYzCGbvboi2LMIGKlAW4y_V/view?usp=sharing",
-    // sectionName: "",
-    // sectionProblem: "",
     problems: [],
-    // homework: "Homework 11",
-    // due: "05/03 Mon",
   },
 ];
-
-// unused
-
-// {
-//   date: "03/09 Tu",
-//   topic: "Sliding WindOwO",
-//   extra: "Mock Interview I",
-//   // sectionName: "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
-//   // sectionProblem: "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/",
-//   problems: [
-//     // {
-//     //   name: "Longest substring without repeating characters",
-//     //   link: "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
-//     // },
-//     // {
-//     //   name: "Maximum points you can obtain from cards",
-//     //   link: "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
-//     // },
-//     // {
-//     //   name: "Maximum continuous ones",
-//     //   link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
-//     // },
-//     // {
-//     //   name: "Permutation in string",
-//     //   link: "https://leetcode.com/problems/permutation-in-string/",
-//     // },
-//     // {
-//     //   name: "Minimum window substring",
-//     //   link: "https://leetcode.com/problems/minimum-window-substring/",
-//     // },
-//   ],
-//   // homework: "Homework 5",
-//   // due: "03/15 Mon",
-// },
