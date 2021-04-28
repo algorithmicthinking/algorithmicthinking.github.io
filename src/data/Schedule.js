@@ -384,6 +384,7 @@ export const schedule = [
     date: "04/27 Tu",
     topic: "Guest Speaker",
     extra: "Mock Interview II",
+    video: "https://drive.google.com/file/d/14EBywAYYymYzCGbvboi2LMIGKlAW4y_V/view?usp=sharing",
     // sectionName: "",
     // sectionProblem: "",
     problems: [],
