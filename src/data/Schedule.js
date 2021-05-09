@@ -195,7 +195,7 @@ export const schedule = [
     topic: "Two Pointers/Sliding Window",
     extra: "Mock Interview I",
     slides: "https://docs.google.com/presentation/d/1BcAKpGMKZWAqwx4uo1N7FUbtsSOPNZ2RAnKzCrL3Vp0",
-    //video: "",
+    video: "https://drive.google.com/file/d/19LA3GX8YjfhSvWOR43dU7BcH-UTTbnoY/view?usp=sharing",
     sectionName: "Swapping Nodes in a Linked List",
     sectionProblem: "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
     
