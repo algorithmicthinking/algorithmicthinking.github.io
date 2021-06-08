@@ -30,6 +30,9 @@ export const schedule = [
       {
         name: "Contains duplicate",
         link: "https://leetcode.com/problems/contains-duplicate/"
+      },{
+        name: "[Solution] Contains duplicate",
+        link: "https://www.youtube.com/watch?v=u0EODaL6wQE&list=PLqscWxznaF7fjTcZ5nFj5oe7_bs6fMLzj"
       },
       {
         name: "Best time to buy and sell stock",
@@ -42,6 +45,14 @@ export const schedule = [
       {
         name: "Product of array except self",
         link: "https://leetcode.com/problems/product-of-array-except-self/"
+      },
+      {
+        name: "[Solution] Product of array except self",
+        link: "https://www.youtube.com/watch?v=wNi-xFJ9pOk&list=PLqscWxznaF7fjTcZ5nFj5oe7_bs6fMLzj&index=4"
+      },
+      {
+        name: "[Solution] Valid Anagram",
+        link: "https://www.youtube.com/watch?v=9dEAZFF4CRc&list=PLqscWxznaF7fjTcZ5nFj5oe7_bs6fMLzj&index=2"
       },
     ],
     homework: "Homework 2",
@@ -69,12 +80,24 @@ export const schedule = [
         link: "https://leetcode.com/problems/reverse-linked-list-ii/",
       },
       {
-        name: "Flatten a multilevel doubly linked list",
+        name: "[Solution] Reverse Linked List ii",
+        link: "https://www.youtube.com/watch?v=ZiZqqvqEnrs",
+      },
+      {
+        name: "Flatten a multilevel linkedlist",
         link: "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/",
       },
       {
-        name: "Remove nth node from the end",
+        name: "[Solution] Flatten a multilevel linkedlist",
+        link: "https://youtu.be/Ly1EEJWMLfk",
+      },
+      {
+        name: "Remove nth node from end",
         link: "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      },
+      {
+        name: "[Solution] Remove nth node from end",
+        link: "https://youtu.be/LC0y6w4amhg",
       },
       {
         name: "Merge 2 sorted lists",
@@ -97,24 +120,44 @@ export const schedule = [
     extraPracticeProblem: "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
     problems: [
       {
-        name: "First and last position in a sorted",
+        name: "First & last pos in sorted arr",
         link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      },
+      {
+        name: "[Solution] First & last pos in sorted arr",
+        link: "https://youtu.be/0yktIGutogE",
       },
       {
         name: "Search Insert Position",
         link: "https://leetcode.com/problems/search-insert-position/",
       },
       {
-        name: "Search in a rotated sorted array",
+        name: "[Solution] Search Insert Position",
+        link: "https://youtu.be/SQfFsQbZUfs",
+      },
+      {
+        name: "Search in rotated sorted arr",
         link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      },
+      {
+        name: "[Solution] Search in rotated sorted arr",
+        link: "https://youtu.be/19thO-YJcN4",
       },
       {
         name: "Random pick with weight",
         link: "https://leetcode.com/problems/random-pick-with-weight/",
       },
       {
-        name: "Find the smallest divisor given a threshold",
+        name: "[Solution] Random pick with weight",
+        link: "https://youtu.be/7UY2XbFcW5A",
+      },
+      {
+        name: "Find smallest divisor w/ threshold",
         link: "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      },
+      {
+        name: "[Solution] Find smallest divisor w/ threshold",
+        link: "https://youtu.be/F50a7MiIkrE",
       },
     ],
     homework: "Homework 4",
@@ -132,8 +175,12 @@ export const schedule = [
     // sectionInfo: "",
     problems: [
       {
-      name: "Valid Parentheses",
+        name: "Valid Parentheses",
         link: "https://leetcode.com/problems/valid-parentheses/",
+      },
+      {
+        name: "[Solution] Valid Parentheses",
+        link: "https://youtu.be/8pI2EWjAXmM",
       },
       {
         name: "Minimum to Remove to Make Valid",
@@ -169,8 +216,16 @@ export const schedule = [
         link: "https://leetcode.com/problems/min-stack/",
       },
       {
+        name: "[Solution] Min Stack",
+        link: "https://www.youtube.com/watch?v=3dN1dwbufDg",
+      },
+      {
         name: "Design Underground Subway System",
         link: "https://leetcode.com/problems/design-underground-system/",
+      },
+      {
+        name: "Design Underground Subway System",
+        link: "https://www.youtube.com/watch?v=Vom-eJy6hWs",
       },
       {
         name: "Design Twitter",

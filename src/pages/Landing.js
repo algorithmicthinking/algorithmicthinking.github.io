@@ -20,6 +20,8 @@ const Landing = () => {
       <Row>
         <Col>
           <h1>
+            <b style={{ color: "#ED9705" }}>CS 198-112</b> @ <span style={{ color: "#008ECB" }}>UC Berkeley</span>
+            <br />
             <b style={{ color: "#ED9705" }}>Leetcode 101</b> |{" "}
             <span style={{ color: "#008ECB" }}>
               Introduction to Algorithmic Thinking
