@@ -31,7 +31,11 @@ const Landing = () => {
           <h2>Fall 2021</h2>
           <h2>Announcements</h2>
           <p>
-            <a target="_blank" href="https://upe.berkeley.edu/">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://upe.berkeley.edu/"
+            >
               UPE
             </a>{" "}
             made wonderful walkthrough videos for the mock interview problems!
@@ -39,12 +43,14 @@ const Landing = () => {
             <br />
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.youtube.com/watch?v=KVMffdODBJI"
             >
               [Maximum Consecutive Ones]
             </a>{" "}
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.youtube.com/watch?v=pObhgBa-lT4"
             >
               [Target Sum Walkthrough]
@@ -54,6 +60,7 @@ const Landing = () => {
             See (
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62"
             >
               @62
@@ -97,7 +104,11 @@ const Landing = () => {
                       )}
                       {week.slides ? (
                         <>
-                          <a target="_blank" href={week.slides}>
+                          <a
+                            target="_blank"
+                            rel="noreferrer"
+                            href={week.slides}
+                          >
                             [Slides]
                           </a>
                         </>
@@ -107,7 +118,7 @@ const Landing = () => {
                       {week.video && week.slides ? " " : ""}
                       {week.video ? (
                         <>
-                          <a target="_blank" href={week.video}>
+                          <a target="_blank" rel="noreferrer" href={week.video}>
                             [Recording]
                           </a>
                         </>
