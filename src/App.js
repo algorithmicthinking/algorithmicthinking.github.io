@@ -1,7 +1,7 @@
 import "./App.css";
 import "./css/style.css";
 
-import { HashRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
 import Landing from "./pages/Landing";
@@ -13,7 +13,7 @@ import Sp21 from "./sp21/src/App";
 
 function App() {
   return (
-    <Router basename="/">
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App" id="home">
         <Switch>
           <Route path="/sp21">
