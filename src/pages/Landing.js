@@ -20,30 +20,45 @@ const Landing = () => {
       <Row>
         <Col>
           <h1>
-            <b style={{ color: "#ED9705" }}>CS 198-112</b> @ <span style={{ color: "#008ECB" }}>UC Berkeley</span>
+            <b style={{ color: "#ED9705" }}>CS 198-112</b> @{" "}
+            <span style={{ color: "#008ECB" }}>UC Berkeley</span>
             <br />
             <b style={{ color: "#ED9705" }}>Leetcode 101</b> |{" "}
             <span style={{ color: "#008ECB" }}>
               Introduction to Algorithmic Thinking
             </span>
           </h1>
-          <h2>Spring 2021</h2>
+          <h2>Fall 2021</h2>
           <h2>Announcements</h2>
           <p>
-              <a target="_blank" href="https://upe.berkeley.edu/">UPE</a> made wonderful walkthrough videos for the mock interview problems! You can view them here:
-              <br/>
-              <a target="_blank" href="https://www.youtube.com/watch?v=KVMffdODBJI">
-                [Maximum Consecutive Ones]
-              </a> <a target="_blank" href="https://www.youtube.com/watch?v=pObhgBa-lT4">
-                [Target Sum Walkthrough]
-              </a>
-            <br/>
-            <br/>
-            See
-            (<a target="_blank"
-                  href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62">
-                @62
-            </a>) for recruiting and algorithm resources!
+            <a target="_blank" href="https://upe.berkeley.edu/">
+              UPE
+            </a>{" "}
+            made wonderful walkthrough videos for the mock interview problems!
+            You can view them here:
+            <br />
+            <a
+              target="_blank"
+              href="https://www.youtube.com/watch?v=KVMffdODBJI"
+            >
+              [Maximum Consecutive Ones]
+            </a>{" "}
+            <a
+              target="_blank"
+              href="https://www.youtube.com/watch?v=pObhgBa-lT4"
+            >
+              [Target Sum Walkthrough]
+            </a>
+            <br />
+            <br />
+            See (
+            <a
+              target="_blank"
+              href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62"
+            >
+              @62
+            </a>
+            ) for recruiting and algorithm resources!
           </p>
         </Col>
       </Row>
@@ -89,7 +104,7 @@ const Landing = () => {
                       ) : (
                         ""
                       )}
-                      {(week.video && week.slides) ? " " : ""}
+                      {week.video && week.slides ? " " : ""}
                       {week.video ? (
                         <>
                           <a target="_blank" href={week.video}>
@@ -150,15 +165,17 @@ const Landing = () => {
                         ""
                       )}
 
-                     {(week.interviewHelp && week.interviewHelp.length) ? (
+                      {week.interviewHelp && week.interviewHelp.length ? (
                         <>
                           Mock Interview Guides:
                           <br />
                         </>
-                      ) : ""}
+                      ) : (
+                        ""
+                      )}
 
-                      {(week.interviewHelp && week.interviewHelp.length) ?
-                        week.interviewHelp.map((help, index) => (
+                      {week.interviewHelp && week.interviewHelp.length
+                        ? week.interviewHelp.map((help, index) => (
                             <>
                               <a
                                 target="_blank"
@@ -167,17 +184,17 @@ const Landing = () => {
                               >
                                 {help.name}
                               </a>
-                                {
-                                  help.solution ? 
-                                    <>
-                                      , <a href={help.solution}>Solution</a>
-                                    </> : ""
-                                }
+                              {help.solution ? (
+                                <>
+                                  , <a href={help.solution}>Solution</a>
+                                </>
+                              ) : (
+                                ""
+                              )}
                               {week.interviewHelp[index + 1] && <br />}
                             </>
                           ))
                         : ""}
-
                     </td>
                     <td class="center">
                       {week.homework}
