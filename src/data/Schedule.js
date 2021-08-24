@@ -1,7 +1,7 @@
 export const schedule = [
   // Week 0
   {
-    date: "02/02 Tu",
+    date: "09/07 Tu",
     topic: "Introduction and a Brief Overview of the Interview Process",
     slides: "",
     video: "",
@@ -9,18 +9,17 @@ export const schedule = [
     sectionName: "",
     sectionProblem: "",
     homework: "Get a LeetCode Account",
-    due: "02/08 Mon",
+    due: "",
   },
   // Week 1
   {
-    date: "02/09 Tu",
+    date: "09/14 Tu",
     topic: "Basic Data Structures and Problem Solving",
     slides: "",
     video: "",
-    sectionName: "Valid anagram",
-    sectionProblem: "https://leetcode.com/problems/valid-anagram/",
-    sectionInfo:
-      "https://drive.google.com/file/d/1tj6Lx6M3X-zhUT7ENWdL37qfKPd-U0hE/view?usp=sharing",
+    sectionName: "",
+    sectionProblem: "",
+    sectionInfo: "",
     problems: [
       // {
       //   name: "Two Sum",
@@ -54,21 +53,20 @@ export const schedule = [
       //   link: "https://www.youtube.com/watch?v=9dEAZFF4CRc&list=PLqscWxznaF7fjTcZ5nFj5oe7_bs6fMLzj&index=2"
       // },
     ],
-    homework: "Homework 2",
-    due: "02/15 Mon",
+    homework: "",
+    due: "",
   },
   // Week 2
   {
-    date: "02/16 Tu",
+    date: "09/21 Tu",
     topic: "Linked Lists",
     slides: "",
     video: "",
-    sectionName: "Add Two Numbers",
-    sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
-    sectionInfo:
-      "https://drive.google.com/file/d/15CcsKRmcWTTdJIlfMYRySVI-JBQn5b87/view?usp=sharing",
-    extraPracticeName: "Merge K Sorted Lists",
-    extraPracticeProblem: "https://leetcode.com/problems/merge-k-sorted-lists/",
+    sectionName: "",
+    sectionProblem: "",
+    sectionInfo: "",
+    extraPracticeName: "",
+    extraPracticeProblem: "",
     problems: [
       // {
       //   name: "Reverse a Linked List",
@@ -103,22 +101,20 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
       // },
     ],
-    homework: "Homework 3",
-    due: "02/22 Mon",
+    homework: "",
+    due: "",
   },
   // Week 3
   {
-    date: "02/23 Tu",
+    date: "09/28 Tu",
     topic: "Binary Search Problems",
     slides: "",
     video: "",
-    sectionName: "Search 2D Matrix",
-    sectionProblem: "https://leetcode.com/problems/search-a-2d-matrix/",
-    sectionInfo:
-      "https://drive.google.com/file/d/1bJyD0rroXIbxU1c05xswFMiJ3zj8-iqi/view?usp=sharing",
-    extraPracticeName: "Kth Smallest Element in a Sorted Matrix",
-    extraPracticeProblem:
-      "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+    sectionName: "",
+    sectionProblem: "",
+    sectionInfo: "",
+    extraPracticeName: "",
+    extraPracticeProblem: "",
     problems: [
       // {
       //   name: "First & last pos in sorted arr",
@@ -161,18 +157,18 @@ export const schedule = [
       //   link: "https://youtu.be/F50a7MiIkrE",
       // },
     ],
-    homework: "Homework 4",
-    due: "03/01 Mon",
+    homework: "",
+    due: "",
   },
 
   // Week 4
   {
-    date: "03/02 Tu",
+    date: "10/05 Tu",
     topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
     slides: "",
     video: "",
-    sectionName: "Decode string",
-    sectionProblem: "https://leetcode.com/problems/decode-string/",
+    sectionName: "",
+    sectionProblem: "",
     // sectionInfo: "",
     problems: [
       // {
@@ -200,17 +196,17 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/task-scheduler/",
       // },
     ],
-    homework: "Homework 5",
-    due: "03/08 Mon",
+    homework: "",
+    due: "",
   },
   // Week 5
   {
-    date: "03/09 Tu",
+    date: "10/12 Tu",
     topic: "Object Oriented Programming",
-    sectionName: "Design Browser History",
+    sectionName: "",
     slides: "",
     video: "",
-    sectionProblem: "https://leetcode.com/problems/design-browser-history/",
+    sectionProblem: "",
     problems: [
       // {
       //   name: "Min Stack",
@@ -241,35 +237,33 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/encode-and-decode-tinyurl/",
       // },
     ],
-    homework: "Homework 6",
-    due: "03/15 Mon",
+    homework: "",
+    due: "",
   },
   // Week 6
   {
-    date: "03/16 Tu",
+    date: "10/19 Tu",
     topic: "Two Pointers/Sliding Window",
-    extra: "Mock Interview I",
+    extra: "",
     slides: "",
     video: "",
-    sectionName: "Swapping Nodes in a Linked List",
-    sectionProblem:
-      "https://leetcode.com/problems/swapping-nodes-in-a-linked-list/",
-
+    sectionName: "",
+    sectionProblem: "",
     interviewHelp: [
-      {
-        name: "Problem 1",
-        link: "https://docs.google.com/document/d/15tl8bdDm9IdipFOdXIsy7puLlo3VcoyCxN3wc-6tsIE/edit#",
-        solution: "https://www.youtube.com/watch?v=KVMffdODBJI",
-      },
-      {
-        name: "Problem 2",
-        link: "https://docs.google.com/document/d/1oHgvt76_sAM6z5khjQyN7ek-iDupWHRytumF3jIcWbQ/edit?usp=sharing",
-        solution: "https://www.youtube.com/watch?v=pObhgBa-lT4",
-      },
-      {
-        name: "Example Mock Interview",
-        link: "https://youtu.be/SxP6BeaG3cw",
-      },
+      // {
+      //   name: "Problem 1",
+      //   link: "https://docs.google.com/document/d/15tl8bdDm9IdipFOdXIsy7puLlo3VcoyCxN3wc-6tsIE/edit#",
+      //   solution: "https://www.youtube.com/watch?v=KVMffdODBJI",
+      // },
+      // {
+      //   name: "Problem 2",
+      //   link: "https://docs.google.com/document/d/1oHgvt76_sAM6z5khjQyN7ek-iDupWHRytumF3jIcWbQ/edit?usp=sharing",
+      //   solution: "https://www.youtube.com/watch?v=pObhgBa-lT4",
+      // },
+      // {
+      //   name: "Example Mock Interview",
+      //   link: "https://youtu.be/SxP6BeaG3cw",
+      // },
     ],
 
     problems: [
@@ -295,13 +289,13 @@ export const schedule = [
       // },
     ],
 
-    homework: "Homework 7",
-    due: "03/29 Mon",
+    homework: "",
+    due: "",
   },
   // Week 7
   {
-    date: "03/23 Tu",
-    topic: "Spring Break",
+    date: "10/26 Tu",
+    topic: "TBD",
     // sectionName: "Add Two Numbers",
     // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
@@ -310,16 +304,16 @@ export const schedule = [
         link: "",
       },
     ],
-    homework: "No Homework! Enjoy your break.",
+    homework: "",
     // due: "",
   },
   // Week 8
   {
-    date: "03/30 Tu",
+    date: "11/02 Tu",
     topic: "Trees",
     video: "",
-    sectionName: "Symmetric Tree",
-    sectionProblem: "https://leetcode.com/problems/symmetric-tree",
+    sectionName: "",
+    sectionProblem: "",
     slides: "",
     problems: [
       // {
@@ -343,16 +337,15 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/binary-tree-right-side-view/",
       // },
     ],
-    homework: "Homework 8",
-    due: "04/06 Tuesday",
+    homework: "",
+    due: "",
   },
   // Week 9
   {
-    date: "04/06 Tu",
+    date: "11/09 Tu",
     topic: "Graphs",
-    sectionName: "Shortest Path in Binary Matrix",
-    sectionProblem:
-      "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+    sectionName: "",
+    sectionProblem: "",
     slides: "",
     video: "",
     problems: [
@@ -373,18 +366,18 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/rotting-oranges/",
       // },
     ],
-    homework: "Homework 9",
-    due: "04/12 Mon",
+    homework: "",
+    due: "",
   },
   // Week 10
   {
-    date: "04/13 Tu",
+    date: "11/16 Tu",
     topic: "Dynamic Programming",
-    sectionName: "House Robber",
+    sectionName: "",
     slides: "",
-    sectionProblem: "https://leetcode.com/problems/house-robber/",
-    extraPracticeName: "Maximal Square",
-    extraPracticeProblem: "https://leetcode.com/problems/maximal-square/",
+    sectionProblem: "",
+    extraPracticeName: "",
+    extraPracticeProblem: "",
     video: "",
     problems: [
       // {
@@ -408,16 +401,16 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/longest-common-subsequence/",
       // },
     ],
-    homework: "Homework 10",
-    due: "04/19 Mon",
+    homework: "",
+    due: "",
   },
   // Week 11
   {
-    date: "04/20 Tu",
+    date: "11/23 Tu",
     topic: "Greedy",
     slides: "",
-    sectionName: "Partition Labels",
-    sectionProblem: "https://leetcode.com/problems/partition-labels/",
+    sectionName: "",
+    sectionProblem: "",
     video: "",
     problems: [
       // {
@@ -433,17 +426,17 @@ export const schedule = [
       //   link: "https://leetcode.com/problems/boats-to-save-people/",
       // },
     ],
-    homework: "Homework 11",
-    due: "04/26 Mon",
+    homework: "",
+    due: "",
   },
   // Week 12
   {
-    date: "04/27 Tu",
+    date: "11/30 Tu",
     topic: "Guest Speaker",
-    extra: "Mock Interview II",
+    extra: "",
     video: "",
-    sectionName: "Check out AddisCoder",
-    sectionProblem: "https://www.addiscoder.com/",
+    sectionName: "",
+    sectionProblem: "",
     problems: [],
   },
 ];
