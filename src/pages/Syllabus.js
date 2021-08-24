@@ -28,7 +28,9 @@ const Syllabus = () => {
           </li>
           <li>
             <b>Faculty Sponsor</b>:{" "}
-            <a href="https://people.eecs.berkeley.edu/~minilek/">Jelani Nelson</a>
+            <a href="https://people.eecs.berkeley.edu/~minilek/">
+              Jelani Nelson
+            </a>
           </li>
           <li>
             <b>Course Catalog</b>:{" "}
@@ -111,7 +113,11 @@ const Syllabus = () => {
               Instructors will hold office hours after lecture from 6:30 - 7:30
               PM. TA’s will hold office hours on Mondays and Thursdays from
               3:00-4:00 PM. TA office hours will have multiple TA’s and an
-              office hours queue similar to CS61A. Officer hours can be found <a target="_blank" href="https://oh.leetcode101.com">here</a>.
+              office hours queue similar to CS61A. Officer hours can be found{" "}
+              <a target="_blank" href="https://oh.leetcode101.com">
+                here
+              </a>
+              .
             </li>
           </ul>
         </p>
@@ -145,15 +151,12 @@ const Syllabus = () => {
 
         <h3>Grading Policy</h3>
         <p>
-          <b>Attendance (max 2 unexcused absences)</b>: TWO unexcused absences
-          from our lecture and discussion are allowed. For a class to be
-          excused, you MUST get advance permission (just{" "}
-          <a href="mailto:leetcodedecal@gmail.com">email us</a> we’re nice!).
-          Having more than 2 unexcused classes will result in an automatic No
-          Pass (NP). Please reach out to us if you have any questions or
-          concerns.
+          <b>Attendance</b>: Attendance is not mandatory and not tracked or
+          considered as part of your grade. Lecture recordings will be posted on
+          the website after each lecture is given. Please reach out to us if you
+          have any questions or concerns.
         </p>
-        <p>
+        {/* <p>
           <b>Participation</b>: Participation enhances intuition, and we aim to
           build an algorithmic intuition so that if you were presented with any
           coding problem you could do it! As interviewing is an interpersonal
@@ -163,7 +166,7 @@ const Syllabus = () => {
           make you fill out feedback forms periodically about your partner to
           judge participation. As long as you participate in the breakout rooms,
           you’ll receive full points.
-        </p>
+        </p> */}
         <p>
           <b>Homework (8 out of 10 required)</b>: All the homework is released{" "}
           <a href="https://leetcode101.com">on our website</a> and is due every

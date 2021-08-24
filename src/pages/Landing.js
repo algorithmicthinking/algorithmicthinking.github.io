@@ -31,41 +31,45 @@ const Landing = () => {
           <h2>Fall 2021</h2>
           <h2>Announcements</h2>
           <p>
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://upe.berkeley.edu/"
-            >
-              UPE
-            </a>{" "}
-            made wonderful walkthrough videos for the mock interview problems!
-            You can view them here:
+            Feeling intimidated by all the FAANG interns on LinkedIn? Stressed
+            by the recruiting process and not sure where to get good
+            information? The Introduction to Algorithmic Thinking is the Decal
+            for you!
+            <br />
+            <br />
+            Coding interviews often require a skill set that is not fully
+            covered by the undergraduate CS curriculum. Rather than leave
+            students to learn these skills on their own, Introduction to
+            Algorithmic Thinking attempts to bridge the gap between traditional
+            computer science coursework and the industry recruiting process.
+            With mock interviews and practice problems curated by frequency,
+            Introduction to Algorithmic Thinking provides a hands-on and
+            practical approach to learning how to code algorithms commonly seen
+            in software engineering interviews.
+            <br />
+            <br />
+            The decal will involve lectures, practice problems, mock interviews
+            with peers, and some special speakers (JomaTech, Clément Mihailescu,
+            and Jelani Nelson)!
+            <br />
+            <br />
+            Our course staff has received offers from Google, Facebook,
+            Salesforce, Amazon, DE Shaw, Intuit etc. and will hold office hours
+            and be there to help you!
+            <br />
+            <br />
+            If you're interested, enrollment is open on a first-come,
+            first-serve basis (for 2 units). You can enroll on CalCentral with
+            Class Number: 33506.
+            <br />
             <br />
             <a
+              href="https://classes.berkeley.edu/content/2021-fall-compsci-198-112-grp-112"
               target="_blank"
               rel="noreferrer"
-              href="https://www.youtube.com/watch?v=KVMffdODBJI"
             >
-              [Maximum Consecutive Ones]
-            </a>{" "}
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://www.youtube.com/watch?v=pObhgBa-lT4"
-            >
-              [Target Sum Walkthrough]
+              https://classes.berkeley.edu/content/2021-fall-compsci-198-112-grp-112
             </a>
-            <br />
-            <br />
-            See (
-            <a
-              target="_blank"
-              rel="noreferrer"
-              href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62"
-            >
-              @62
-            </a>
-            ) for recruiting and algorithm resources!
           </p>
         </Col>
       </Row>
