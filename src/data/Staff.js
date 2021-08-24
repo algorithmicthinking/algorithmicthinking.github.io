@@ -35,14 +35,14 @@ export const facilitators = [
   {
     name: "Michael Jayasuriya",
     email: "mjayasur",
-    bio: "Hi all! I’m Michael, a third year CS/Premed student, and I’m excited to be co-facilitating the first semester of this decal with Kathy! DM me on Discord or come to OH if you want to vent about toxicity in CS, chat about the Great British Baking Show, play TF2 with my little brother and I (my favorite class is the spy), discuss algorithms, or anything in between!",
+    bio: "Hi all! I’m Michael, a fourth year CS/Premed student, and I’m excited to be co-facilitating the first semester of this decal with Kathy! DM me on Discord or come to OH if you want to vent about toxicity in CS, chat about the Great British Baking Show, play TF2 with my little brother and I (my favorite class is the spy), discuss algorithms, or anything in between!",
     image: MichaelJ,
     focus_area: focus_areas.fac,
   },
   {
     name: "Kathy Wu",
     email: "kathywu",
-    bio: "Hey everyone! My name is Kathy, and I'm a 3rd year CS major from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!",
+    bio: "Hey everyone! My name is Kathy, and I'm a Master's student studying CS from Saratoga, CA. I'm super excited to be co-facilitating the leetcode decal with Michael this semester. Outside of classes, my hobbies include baking, pet goldfish ownership, and going on unnecessarily long walks timed to the length of my spotify playlists. HMU to talk about anything!",
     image: Kathy,
     focus_area: focus_areas.fac,
   },
