@@ -34,8 +34,12 @@ const Syllabus = () => {
           </li>
           <li>
             <b>Course Catalog</b>:{" "}
-            <a href="https://classes.berkeley.edu/content/2021-spring-compsci-198-112-grp-112">
-              https://classes.berkeley.edu/content/2021-spring-compsci-198-112-grp-112
+            <a
+              href="https://classes.berkeley.edu/content/2021-fall-compsci-198-112-grp-112"
+              target="_blank"
+              rel="noreferrer"
+            >
+              https://classes.berkeley.edu/content/2021-fall-compsci-198-112-grp-112
             </a>
           </li>
           <li>
