@@ -16,6 +16,7 @@ import Joel from "./headshots/joel_jaison.jpg";
 import Chris from "./headshots/chris_liu.jpg";
 import Jonny from "./headshots/jonny_pei.jpg";
 import KathyLee from "./headshots/kathy_lee.jpg";
+import Nitin from "./headshots/nitin_bhupatiraju.jpg";
 
 const focus_areas = {
   wd: "Web Development",
@@ -66,7 +67,7 @@ export const teachingAssistants = [
   {
     name: "Julian Meyn",
     email: "meyn",
-    bio: "Hey! I'm a 3rd year CS major from SoCal. In my free time I enjoy listening to music, watching old movies, and playing league with the boys. I'm looking forward to meeting you all!",
+    bio: "Hi! I'm a 3rd year CS major from SoCal. In my free time I enjoy listening to music, skateboarding, watching old movies, and running. I'm really excited to be back this semester and want to help you succeed!",
     image: Julian,
     focus_area: focus_areas.review,
   },
@@ -80,9 +81,9 @@ export const teachingAssistants = [
   {
     name: "Kexin (Cassie) Shu",
     email: "kexinshu",
-    bio: "My name is Kexin and I am a CS junior. I am TA-ing this class because I like solving LeetCode problems (even though some of them are tricky!). Let me know if you need any tips in hunting an internship, and I will try my best to help!",
+    bio: "I am a senior studying CS. Super excited to TA this class (again) and meet with you all! ",
     image: Kexin,
-    focus_area: focus_areas.wd,
+    focus_area: focus_areas.disc,
   },
   {
     name: "Richard Zhu",
@@ -117,14 +118,14 @@ export const teachingAssistants = [
     email: "arav",
     bio: "hey! i'm arav—a cs major from socal. when i'm not watching champions league or playing sports, i'm usually stressing out over passing coding interviews. reach out if there's any chance i can be helpful, with leetcode or in general :)",
     image: Arav,
-    focus_area: focus_areas.hw_pi,
+    focus_area: focus_areas.disc,
   },
   {
     name: "Chris Liu",
     email: "chris-liu",
     bio: "professional conclusion jumper and cloutmonger. if it ain't ice i don't want it. proficient with microsoft word and powerpoint.",
     image: Chris,
-    focus_area: focus_areas.hw_pi,
+    focus_area: focus_areas.disc,
   },
   {
     name: "Nikhil Kandkur",
@@ -153,5 +154,12 @@ export const teachingAssistants = [
     bio: "HI! I am senior and I am studying DS and CS.I am so glad to meet you guys. I can say that this class would be the MOST DIRECTLY HELPFUL class in UC Berkeley if you guys want to be a software engineer.",
     image: KathyLee,
     focus_area: focus_areas.hw,
+  },
+  {
+    name: "Nitin Bhupatiraju",
+    email: "nitinb",
+    bio: "Hey everyone, I'm Nitin and I'm a rising junior majoring in CS! I love all things MCU and am an avid fan of NBA, NFL and I enjoy fantasy football. Feel free to reach about anything!",
+    image: Nitin,
+    focus_area: focus_areas.hw_pi,
   },
 ];
