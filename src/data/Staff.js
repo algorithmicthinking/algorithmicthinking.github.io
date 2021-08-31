@@ -160,6 +160,6 @@ export const teachingAssistants = [
     email: "nitinb",
     bio: "Hey everyone, I'm Nitin and I'm a rising junior majoring in CS! I love all things MCU and am an avid fan of NBA, NFL and I enjoy fantasy football. Feel free to reach about anything!",
     image: Nitin,
-    focus_area: focus_areas.hw_pi,
+    focus_area: focus_areas.piazza,
   },
 ];
