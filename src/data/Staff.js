@@ -69,7 +69,7 @@ export const teachingAssistants = [
     email: "meyn",
     bio: "Hi! I'm a 3rd year CS major from SoCal. In my free time I enjoy listening to music, skateboarding, watching old movies, and running. I'm really excited to be back this semester and want to help you succeed!",
     image: Julian,
-    focus_area: focus_areas.review,
+    focus_area: focus_areas.disc,
   },
   {
     name: "Karthik Balakrishnan",
@@ -118,7 +118,7 @@ export const teachingAssistants = [
     email: "arav",
     bio: "hey! i'm arav—a cs major from socal. when i'm not watching champions league or playing sports, i'm usually stressing out over passing coding interviews. reach out if there's any chance i can be helpful, with leetcode or in general :)",
     image: Arav,
-    focus_area: focus_areas.disc,
+    focus_area: focus_areas.hw_pi,
   },
   {
     name: "Chris Liu",
