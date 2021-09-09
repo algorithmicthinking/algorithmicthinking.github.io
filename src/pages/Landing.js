@@ -180,15 +180,6 @@ const Landing = () => {
                         ""
                       )}
 
-                      {week.interviewHelp && week.interviewHelp.length ? (
-                        <>
-                          Mock Interview Guides:
-                          <br />
-                        </>
-                      ) : (
-                        ""
-                      )}
-
                       {week.interviewHelp && week.interviewHelp.length
                         ? week.interviewHelp.map((help, index) => (
                             <>
