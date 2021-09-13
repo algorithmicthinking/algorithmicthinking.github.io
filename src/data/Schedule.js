@@ -7,22 +7,22 @@ export const schedule = [
     video:
       "https://drive.google.com/file/d/1r2vDORwRC-NfnvVklDsyDLghhrm0l9q0/view?usp=sharing",
     problems: [
-      {
-        name: "Product of array except self",
-        link: "https://leetcode.com/problems/product-of-array-except-self/",
-      },
-      {
-        name: "Merge Intervals",
-        link: "https://leetcode.com/problems/merge-intervals/",
-      },
-      {
-        name: "Best time to buy and sell stock",
-        link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-      },
+      // {
+      //   name: "Product of array except self",
+      //   link: "https://leetcode.com/problems/product-of-array-except-self/",
+      // },
+      // {
+      //   name: "Merge Intervals",
+      //   link: "https://leetcode.com/problems/merge-intervals/",
+      // },
+      // {
+      //   name: "Best time to buy and sell stock",
+      //   link: "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      // },
     ],
     sectionName: "",
     sectionProblem: "",
-    homework: "Homework 0",
+    homework: "HW 0: Get A Leetcode Account",
     due: "09/14 Tu",
   },
   // Week 1

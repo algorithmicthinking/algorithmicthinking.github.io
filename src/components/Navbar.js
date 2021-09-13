@@ -29,7 +29,10 @@ const SiteNavbar = () => {
         <img src={Logo} alt="" />
         <strong style={{ color: "#ED9705" }}>Leetcode 101 DeCal</strong>
       </Navbar.Brand>
-      <Navbar.Toggle aria-controls="navbar-nav" style={{ backgroundColor: "darkgrey" }} />
+      <Navbar.Toggle
+        aria-controls="navbar-nav"
+        style={{ backgroundColor: "darkgrey" }}
+      />
       <Navbar.Collapse id="navbar-nav">
         <Nav className="ml-auto">
           <Nav.Link href="#schedule">
@@ -51,7 +54,7 @@ const SiteNavbar = () => {
           <Nav.Link
             target="_blank"
             rel="noreferrer"
-            href="https://piazza.com/berkeley/spring2021/cs198112"
+            href="https://piazza.com/class/ksph3bc1d0h5y9"
           >
             <p>Piazza</p>
           </Nav.Link>
@@ -62,9 +65,7 @@ const SiteNavbar = () => {
           >
             <p>Discord</p>
           </Nav.Link>
-          <Nav.Link
-            href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62"
-          >
+          <Nav.Link href="https://piazza.com/class/kj2f1d7eqg75ed?cid=62">
             <p>Resources</p>
           </Nav.Link>
           <div className="toggle">
