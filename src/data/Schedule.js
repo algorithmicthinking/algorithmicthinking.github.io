@@ -29,24 +29,26 @@ export const schedule = [
   {
     date: "09/14 Tu",
     topic: "Hashmaps",
-    slides: "",
-    video: "",
-    sectionName: "",
-    sectionProblem: "",
+    slides:
+      "https://docs.google.com/presentation/d/1McZHTR2awBeY7BPmLcMS3sZiaPL1uCKRs8GN9GdFixA/edit?usp=sharing",
+    video:
+      "https://drive.google.com/file/d/15qTgfC_5Zh-12Wvxm8Hr_SUq6Ig-xlyI/view?usp=sharing",
+    sectionName: "Word Pattern",
+    sectionProblem: "https://leetcode.com/problems/word-pattern/",
     sectionInfo: "",
     problems: [
-      // {
-      //   name: "Two Sum",
-      //   link: "https://leetcode.com/problems/two-sum/",
-      // },
-      // {
-      //   name: "Contains duplicate ii",
-      //   link: "https://leetcode.com/problems/contains-duplicate-ii/",
-      // },
-      // {
-      //   name: "LRU Cache",
-      //   link: "https://leetcode.com/problems/lru-cache/",
-      // },
+      {
+        name: "Two Sum",
+        link: "https://leetcode.com/problems/two-sum/",
+      },
+      {
+        name: "Contains duplicate ii",
+        link: "https://leetcode.com/problems/contains-duplicate-ii/",
+      },
+      {
+        name: "LRU Cache",
+        link: "https://leetcode.com/problems/lru-cache/",
+      },
     ],
     homework: "Homework 1",
     due: "09/21 Tu",
@@ -55,26 +57,27 @@ export const schedule = [
   {
     date: "09/21 Tu",
     topic: "Strings",
-    slides: "",
+    slides:
+      "https://docs.google.com/presentation/d/1k2xlN26lV7UZlrRyjEZ_6txbXCziNDg6dzplU1kMYeI/edit?usp=sharing",
     video: "",
-    sectionName: "",
-    sectionProblem: "",
+    sectionName: "Longest Common Prefix",
+    sectionProblem: "https://leetcode.com/problems/longest-common-prefix/",
     sectionInfo: "",
     extraPracticeName: "",
     extraPracticeProblem: "",
     problems: [
-      // {
-      //   name: "First Unique Character in a String",
-      //   link: "https://leetcode.com/problems/first-unique-character-in-a-string/",
-      // },
-      // {
-      //   name: "Add Strings",
-      //   link: "https://leetcode.com/problems/add-strings/",
-      // },
-      // {
-      //   name: "Shortest Palindrome",
-      //   link: "https://leetcode.com/problems/shortest-palindrome/",
-      // },
+      {
+        name: "First Unique Character in a String",
+        link: "https://leetcode.com/problems/first-unique-character-in-a-string/",
+      },
+      {
+        name: "Add Strings",
+        link: "https://leetcode.com/problems/add-strings/",
+      },
+      {
+        name: "Shortest Palindrome",
+        link: "https://leetcode.com/problems/shortest-palindrome/",
+      },
     ],
     homework: "Homework 2",
     due: "09/28 Tu",
