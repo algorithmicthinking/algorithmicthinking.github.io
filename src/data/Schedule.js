@@ -59,7 +59,8 @@ export const schedule = [
     topic: "Strings",
     slides:
       "https://docs.google.com/presentation/d/1k2xlN26lV7UZlrRyjEZ_6txbXCziNDg6dzplU1kMYeI/edit?usp=sharing",
-    video: "",
+    video:
+      "https://drive.google.com/file/d/174mDkmv4edG7DczTKC_Sb2nrQXUJtciD/view?usp=sharing",
     sectionName: "Longest Common Prefix",
     sectionProblem: "https://leetcode.com/problems/longest-common-prefix/",
     sectionInfo: "",
@@ -86,26 +87,28 @@ export const schedule = [
   {
     date: "09/28 Tu",
     topic: "Linked Lists",
-    slides: "",
-    video: "",
+    slides:
+      "https://docs.google.com/presentation/d/15pY92eXD9e-7QR_kBMY2W7hg2-6as1fXWNvbFJ1Bahs/edit?usp=sharing",
+    video:
+      "https://drive.google.com/file/d/1uIZ_xWbk-mqVwTXd44TkWQvPdQpotGug/view?usp=sharing",
     sectionName: "",
     sectionProblem: "",
     sectionInfo: "",
     extraPracticeName: "",
     extraPracticeProblem: "",
     problems: [
-      // {
-      //   name: "Merge Two Sorted Lists",
-      //   link: "https://leetcode.com/problems/merge-two-sorted-lists/",
-      // },
-      // {
-      //   name: "Detect Cycle in a Linked List",
-      //   link: "https://leetcode.com/problems/linked-list-cycle/",
-      // },
-      // {
-      //   name: "Reorder List",
-      //   link: "https://leetcode.com/problems/reorder-list/",
-      // },
+      {
+        name: "Merge Two Sorted Lists",
+        link: "https://leetcode.com/problems/merge-two-sorted-lists/",
+      },
+      {
+        name: "Detect Cycle in a Linked List",
+        link: "https://leetcode.com/problems/linked-list-cycle/",
+      },
+      {
+        name: "Reorder List",
+        link: "https://leetcode.com/problems/reorder-list/",
+      },
     ],
     homework: "Homework 3",
     due: "10/05 Tu",
