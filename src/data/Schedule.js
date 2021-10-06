@@ -91,8 +91,8 @@ export const schedule = [
       "https://docs.google.com/presentation/d/15pY92eXD9e-7QR_kBMY2W7hg2-6as1fXWNvbFJ1Bahs/edit?usp=sharing",
     video:
       "https://drive.google.com/file/d/1uIZ_xWbk-mqVwTXd44TkWQvPdQpotGug/view?usp=sharing",
-    sectionName: "",
-    sectionProblem: "",
+    sectionName: "Add Two Numbers",
+    sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     sectionInfo: "",
     extraPracticeName: "",
     extraPracticeProblem: "",
@@ -119,23 +119,24 @@ export const schedule = [
     date: "10/05 Tu",
     topic: "Binary Search",
     slides: "",
-    video: "",
-    sectionName: "",
-    sectionProblem: "",
+    video:
+      "https://drive.google.com/file/d/1c4eRQNAR7ahvMv-JXrZ20aVQ188k1BUW/view?usp=sharing",
+    sectionName: "Search a 2D Matrix",
+    sectionProblem: "https://leetcode.com/problems/search-a-2d-matrix/",
     // sectionInfo: "",
     problems: [
-      // {
-      //   name: "Search Insert Position",
-      //   link: "https://leetcode.com/problems/search-insert-position/",
-      // },
-      // {
-      //   name: "Find First and Last Position of Element in Sorted Array",
-      //   link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
-      // },
-      // {
-      //   name: "Search in Rotated Sorted Array",
-      //   link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
-      // },
+      {
+        name: "Search Insert Position",
+        link: "https://leetcode.com/problems/search-insert-position/",
+      },
+      {
+        name: "Find First and Last Position of Element in Sorted Array",
+        link: "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      },
+      {
+        name: "Search in Rotated Sorted Array",
+        link: "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      },
     ],
     homework: "Homework 4",
     due: "10/12 Tu",
