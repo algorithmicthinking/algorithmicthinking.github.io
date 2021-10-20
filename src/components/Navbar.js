@@ -54,7 +54,7 @@ const SiteNavbar = () => {
           <Nav.Link
             target="_blank"
             rel="noreferrer"
-            href="https://piazza.com/class/ksph3bc1d0h5y9"
+            href="piazza.com/berkeley/fall2021/cs198112/home"
           >
             <p>Piazza</p>
           </Nav.Link>

@@ -9,7 +9,7 @@ import Team from "./pages/Team";
 import Syllabus from "./pages/Syllabus";
 import Footer from "./components/Footer";
 
-import Sp21 from "./sp21/src/App";
+import Sp21 from "./sp21/App";
 
 function App() {
   return (

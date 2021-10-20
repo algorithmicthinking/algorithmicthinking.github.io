@@ -118,7 +118,8 @@ export const schedule = [
   {
     date: "10/05 Tu",
     topic: "Binary Search",
-    slides: "",
+    slides:
+      "https://docs.google.com/presentation/d/1oQgWJ1jaT_o7DUap-UBYGjrjiBmfI4HlODp5D6UTBKs/edit#slide=id.gbe037b00ec_0_396",
     video:
       "https://drive.google.com/file/d/1c4eRQNAR7ahvMv-JXrZ20aVQ188k1BUW/view?usp=sharing",
     sectionName: "Search a 2D Matrix",
@@ -146,22 +147,24 @@ export const schedule = [
     date: "10/12 Tu",
     topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
     sectionName: "",
-    slides: "",
-    video: "",
+    slides:
+      "https://docs.google.com/presentation/d/1flBFWnwS2T5UrQQBYrkPmpKnhpqeBLZw021H-9RLM-4/edit?usp=sharing",
+    video:
+      "https://drive.google.com/file/d/1qrF0c8yFORF72gN0kF548U05xmzPcSmK/view?usp=sharing",
     sectionProblem: "",
     problems: [
-      // {
-      //   name: "Valid Parentheses",
-      //   link: "https://leetcode.com/problems/valid-parentheses/",
-      // },
-      // {
-      //   name: "Top K Frequent Elements",
-      //   link: "https://leetcode.com/problems/top-k-frequent-elements/",
-      // },
-      // {
-      //   name: "Sliding Window Maximum",
-      //   link: "https://leetcode.com/problems/sliding-window-maximum/",
-      // },
+      {
+        name: "Valid Parentheses",
+        link: "https://leetcode.com/problems/valid-parentheses/",
+      },
+      {
+        name: "Top K Frequent Elements",
+        link: "https://leetcode.com/problems/top-k-frequent-elements/",
+      },
+      {
+        name: "Sliding Window Maximum",
+        link: "https://leetcode.com/problems/sliding-window-maximum/",
+      },
     ],
     homework: "Homework 5",
     due: "10/19 Tu",
@@ -172,24 +175,24 @@ export const schedule = [
     topic: "Design Questions",
     extra: "",
     slides: "",
-    video: "",
+    video:
+      "https://drive.google.com/file/d/1tdv9gfbGXZuVbIevepDtP5CK0M7EinUQ/view?usp=sharing",
     sectionName: "",
     sectionProblem: "",
     interviewHelp: ["", "", ""],
-
     problems: [
-      // {
-      //   name: "Min Stack",
-      //   link: "https://leetcode.com/problems/min-stack/",
-      // },
-      // {
-      //   name: "Design Hashset",
-      //   link: "https://leetcode.com/problems/design-hashset/",
-      // },
-      // {
-      //   name: "Design Underground Subway System",
-      //   link: "https://leetcode.com/problems/design-underground-system/",
-      // },
+      {
+        name: "Min Stack",
+        link: "https://leetcode.com/problems/min-stack/",
+      },
+      {
+        name: "Design Hashset",
+        link: "https://leetcode.com/problems/design-hashset/",
+      },
+      {
+        name: "Design Underground Subway System",
+        link: "https://leetcode.com/problems/design-underground-system/",
+      },
     ],
 
     homework: "Homework 6",
