@@ -202,21 +202,24 @@ export const schedule = [
   {
     date: "10/26 Tu",
     topic: "Sliding Window",
+    slides: "",
+    video:
+      "https://drive.google.com/file/d/1aFW-96GwyD0HGt9Qek98Ckkq2floLZkk/view?usp=sharing",
     // sectionName: "Add Two Numbers",
     // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
     problems: [
-      // {
-      //   name: "Maximum Continuous Ones",
-      //   link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
-      // },
-      // {
-      //   name: "Permutation in String",
-      //   link: "https://leetcode.com/problems/permutation-in-string/",
-      // },
-      // {
-      //   name: "Minimum Window Substring",
-      //   link: "https://leetcode.com/problems/minimum-window-substring/",
-      // },
+      {
+        name: "Maximum Continuous Ones",
+        link: "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      },
+      {
+        name: "Permutation in String",
+        link: "https://leetcode.com/problems/permutation-in-string/",
+      },
+      {
+        name: "Minimum Window Substring",
+        link: "https://leetcode.com/problems/minimum-window-substring/",
+      },
     ],
     homework: "Homework 7",
     due: "11/02 Tu",
