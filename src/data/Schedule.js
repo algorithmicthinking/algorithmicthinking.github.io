@@ -146,12 +146,12 @@ export const schedule = [
   {
     date: "10/12 Tu",
     topic: "Intermediate Data Structures: Stacks, Queues, and Heaps",
-    sectionName: "",
+    sectionName: "Asteroid Collision",
     slides:
       "https://docs.google.com/presentation/d/1flBFWnwS2T5UrQQBYrkPmpKnhpqeBLZw021H-9RLM-4/edit?usp=sharing",
     video:
       "https://drive.google.com/file/d/1qrF0c8yFORF72gN0kF548U05xmzPcSmK/view?usp=sharing",
-    sectionProblem: "",
+    sectionProblem: "https://leetcode.com/problems/asteroid-collision/",
     problems: [
       {
         name: "Valid Parentheses",
@@ -177,8 +177,8 @@ export const schedule = [
     slides: "",
     video:
       "https://drive.google.com/file/d/1tdv9gfbGXZuVbIevepDtP5CK0M7EinUQ/view?usp=sharing",
-    sectionName: "",
-    sectionProblem: "",
+    sectionName: "Random Pick Index",
+    sectionProblem: "https://leetcode.com/problems/random-pick-index/",
     interviewHelp: ["", "", ""],
     problems: [
       {
@@ -205,8 +205,9 @@ export const schedule = [
     slides: "",
     video:
       "https://drive.google.com/file/d/1aFW-96GwyD0HGt9Qek98Ckkq2floLZkk/view?usp=sharing",
-    // sectionName: "Add Two Numbers",
-    // sectionProblem: "https://leetcode.com/problems/add-two-numbers/",
+    sectionName: "Number of Substrings Containing All Three Characters",
+    sectionProblem:
+      "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
     problems: [
       {
         name: "Maximum Continuous Ones",
@@ -228,23 +229,25 @@ export const schedule = [
   {
     date: "11/02 Tu",
     topic: "Trees",
-    video: "",
-    sectionName: "",
-    sectionProblem: "",
+    video:
+      "https://drive.google.com/file/d/1jFlmsH2-jvLieqVYhA908gbKa6CuiOSu/view?usp=sharing",
+    sectionName: "Lowest Common Ancestor of a Binary Tree",
+    sectionProblem:
+      "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
     slides: "",
     problems: [
-      // {
-      //   name: "Same Tree",
-      //   link: "https://leetcode.com/problems/same-tree/",
-      // },
-      // {
-      //   name: "Kth Smallest Element in a BST",
-      //   link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
-      // },
-      // {
-      //   name: "Right Side Binary Tree",
-      //   link: "https://leetcode.com/problems/binary-tree-right-side-view/",
-      // },
+      {
+        name: "Same Tree",
+        link: "https://leetcode.com/problems/same-tree/",
+      },
+      {
+        name: "Kth Smallest Element in a BST",
+        link: "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      },
+      {
+        name: "Right Side Binary Tree",
+        link: "https://leetcode.com/problems/binary-tree-right-side-view/",
+      },
     ],
     homework: "Homework 8",
     due: "11/09 Tu",
@@ -253,23 +256,24 @@ export const schedule = [
   {
     date: "11/09 Tu",
     topic: "Graphs",
-    sectionName: "",
-    sectionProblem: "",
+    sectionName: "Number of Islands",
+    sectionProblem: "https://leetcode.com/problems/number-of-islands/",
     slides: "",
-    video: "",
+    video:
+      "https://drive.google.com/file/d/1ugbChU_B-iNwSxTClvtXAS5Vkg0flONL/view?usp=sharing",
     problems: [
-      // {
-      //   name: "Number of Islands",
-      //   link: "https://leetcode.com/problems/number-of-islands/",
-      // },
-      // {
-      //   name: "Course Schedule",
-      //   link: "https://leetcode.com/problems/course-schedule/",
-      // },
-      // {
-      //   name: "Swim in Rising Water",
-      //   link: "https://leetcode.com/problems/swim-in-rising-water/",
-      // },
+      {
+        name: "Number of Islands",
+        link: "https://leetcode.com/problems/number-of-islands/",
+      },
+      {
+        name: "Course Schedule",
+        link: "https://leetcode.com/problems/course-schedule/",
+      },
+      {
+        name: "Swim in Rising Water",
+        link: "https://leetcode.com/problems/swim-in-rising-water/",
+      },
     ],
     homework: "Homework 9",
     due: "11/16 Tu",
