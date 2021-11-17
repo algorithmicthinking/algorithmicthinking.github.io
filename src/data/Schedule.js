@@ -282,9 +282,9 @@ export const schedule = [
   {
     date: "11/16 Tu",
     topic: "Dynamic Programming",
-    sectionName: "",
+    sectionName: "Perfect Squares",
+    sectionProblem: "https://leetcode.com/problems/perfect-squares/",
     slides: "https://docs.google.com/presentation/d/10Uj8iKfvrzJU_XIunrJj987aH1GJz2fk1EE0eM7twI4/edit#slide=id.gd20f861398_0_0",
-    sectionProblem: "",
     extraPracticeName: "",
     extraPracticeProblem: "",
     video: "",
