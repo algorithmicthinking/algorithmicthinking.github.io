@@ -283,24 +283,24 @@ export const schedule = [
     date: "11/16 Tu",
     topic: "Dynamic Programming",
     sectionName: "",
-    slides: "",
+    slides: "https://docs.google.com/presentation/d/10Uj8iKfvrzJU_XIunrJj987aH1GJz2fk1EE0eM7twI4/edit#slide=id.gd20f861398_0_0",
     sectionProblem: "",
     extraPracticeName: "",
     extraPracticeProblem: "",
     video: "",
     problems: [
-      // {
-      //   name: "Maximum Subarray Sum",
-      //   link: "https://leetcode.com/problems/maximum-subarray/",
-      // },
-      // {
-      //   name: "Decode Ways",
-      //   link: "https://leetcode.com/problems/decode-ways/",
-      // },
-      // {
-      //   name: "Longest Palindromic Substring",
-      //   link: "https://leetcode.com/problems/longest-palindromic-substring/",
-      // },
+      {
+        name: "Maximum Subarray Sum",
+        link: "https://leetcode.com/problems/maximum-subarray/",
+      },
+      {
+        name: "Decode Ways",
+        link: "https://leetcode.com/problems/decode-ways/",
+      },
+      {
+        name: "Longest Palindromic Substring",
+        link: "https://leetcode.com/problems/longest-palindromic-substring/",
+      },
     ],
     homework: "Homework 10",
     due: "11/23 Tu",
