@@ -202,7 +202,7 @@ export const schedule = [
   {
     date: "10/26 Tu",
     topic: "Sliding Window",
-    slides: "",
+    slides: "https://docs.google.com/presentation/d/1as705AlgcDJOvwi1UAbap9L5mLpYYb1pgWaQ9NcnCLc/edit?usp=sharing",
     video:
       "https://drive.google.com/file/d/1aFW-96GwyD0HGt9Qek98Ckkq2floLZkk/view?usp=sharing",
     sectionName: "Number of Substrings Containing All Three Characters",
@@ -234,7 +234,7 @@ export const schedule = [
     sectionName: "Lowest Common Ancestor of a Binary Tree",
     sectionProblem:
       "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
-    slides: "",
+    slides: "https://docs.google.com/presentation/d/1QEnEqvjR3ypL9yLlJJffzKFCsH40KQpDvE9xZt59w4Q/edit?usp=sharing",
     problems: [
       {
         name: "Same Tree",
@@ -258,7 +258,7 @@ export const schedule = [
     topic: "Graphs",
     sectionName: "Number of Islands",
     sectionProblem: "https://leetcode.com/problems/number-of-islands/",
-    slides: "",
+    slides: "https://docs.google.com/presentation/d/1aiHg2Te1T2LmheALPMTlDa7xW4h2K3OwEd3cJnph4rU/edit?usp=sharing",
     video:
       "https://drive.google.com/file/d/1ugbChU_B-iNwSxTClvtXAS5Vkg0flONL/view?usp=sharing",
     problems: [
@@ -309,23 +309,23 @@ export const schedule = [
   {
     date: "11/23 Tu",
     topic: "Greedy",
-    slides: "",
+    slides: "https://docs.google.com/presentation/d/174V5oMlQGUHq1W8wyTtFFYWjEH0KXoYOFXwSOzc9xbM/edit?usp=sharing",
     sectionName: "",
     sectionProblem: "",
     video: "",
     problems: [
-      // {
-      //   name: "Task Scheduler",
-      //   link: "https://leetcode.com/problems/task-scheduler/",
-      // },
-      // {
-      //   name: "Gas Station",
-      //   link: "https://leetcode.com/problems/gas-station/",
-      // },
-      // {
-      //   name: "Boats to Save People",
-      //   link: "https://leetcode.com/problems/boats-to-save-people/",
-      // },
+      {
+        name: "Task Scheduler",
+        link: "https://leetcode.com/problems/task-scheduler/",
+      },
+      {
+        name: "Gas Station",
+        link: "https://leetcode.com/problems/gas-station/",
+      },
+      {
+        name: "Boats to Save People",
+        link: "https://leetcode.com/problems/boats-to-save-people/",
+      },
     ],
     homework: "Homework 11",
     due: "11/30 Tu",
